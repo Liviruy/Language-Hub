@@ -1,0 +1,98 @@
+name: Language Hub Pipeline
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/raw/*.csv'
+      - 'data/raw/*.json'
+      - 'scripts/**'
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Initialize database
+        run: python scripts/init_database.py
+
+      - name: Import new words
+        run: |
+          for f in data/raw/*.csv; do
+            if [ -f "$f" ]; then
+              echo "Importing: $f"
+              python scripts/import_words.py "$f"
+            fi
+          done
+          for f in data/raw/*.json; do
+            if [ -f "$f" ]; then
+              echo "Importing: $f"
+              python scripts/import_words.py "$f"
+            fi
+          done
+
+      - name: Dictionary enrichment
+        run: python scripts/dictionary_pipeline.py
+
+      - name: Generate audio
+        run: python scripts/generate_audio.py
+
+      - name: Export Anki decks
+        run: python scripts/export_anki.py
+
+      - name: Upload assets to Cloudflare R2
+        env:
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY: ${{ secrets.R2_ACCESS_KEY }}
+          R2_SECRET_KEY: ${{ secrets.R2_SECRET_KEY }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+        run: python scripts/upload_r2.py
+
+      - name: Export words.json
+        run: python -c "
+import json, sqlite3
+conn = sqlite3.connect('database/language.db')
+conn.row_factory = sqlite3.Row
+rows = conn.execute('''
+  SELECT w.text, l.code as lang, l.name as lang_name,
+         w.ipa, w.cefr, w.meanings, w.audio, w.tags
+  FROM words w JOIN languages l ON w.language_id = l.id
+  ORDER BY l.code, w.cefr, w.text
+''').fetchall()
+words = []
+for r in rows:
+    words.append({
+        'text': r['text'], 'lang': r['lang'], 'lang_name': r['lang_name'],
+        'ipa': r['ipa'] or '', 'cefr': r['cefr'] or '',
+        'meanings': json.loads(r['meanings']) if r['meanings'] and r['meanings'] != '[]' else [],
+        'audio': json.loads(r['audio']) if r['audio'] and r['audio'] != '[]' else [],
+        'tags': json.loads(r['tags']) if r['tags'] and r['tags'] != '[]' else [],
+    })
+data = json.dumps({'words': words, 'total': len(words)}, ensure_ascii=False, indent=2)
+with open('docs/words.json', 'w', encoding='utf-8') as f:
+    f.write(data)
+print(f'Exported {len(words)} words')
+"
+
+      - name: Commit updated data
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          git add docs/words.json
+          git diff --staged --quiet || git commit -m 'auto: update words.json'
+          git push
