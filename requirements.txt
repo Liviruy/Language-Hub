@@ -1,0 +1,24 @@
+# Language Hub - Python dependencies
+# Install: pip install -r requirements.txt
+
+# HTTP requests (Wiktionary API, etc.)
+requests>=2.31.0
+
+# Database utilities
+sqlite-utils>=3.36
+
+# Audio generation
+edge-tts>=6.1
+
+# Anki export
+genanki>=0.13
+
+# Cloudflare R2 (S3-compatible)
+boto3>=1.28
+
+# Testing
+pytest>=7.4
+pytest-cov>=4.1
+
+# Utils
+python-dotenv>=1.0

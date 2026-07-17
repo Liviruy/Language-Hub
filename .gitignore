@@ -1,1 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
 
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Database
+database/language.db
+database/backups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio / Media (local cache only, R2 is the source)
+data/audio/*.mp3
+data/audio/*.wav
+
+# Environment
+.env
+.env.local
+
+# Exports (generated files)
+exports/*.apkg
