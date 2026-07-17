@@ -1,14 +1,12 @@
 # Tasks
 
-## Phase 8 — Website (Current)
+## Phase 9 — API (Current)
 
-- [ ] Scaffold Astro project in website/
-- [ ] Design word search page
-- [ ] Design word detail page (IPA, meanings, audio)
-- [ ] Connect to SQLite or use generated JSON data
-- [ ] Dark mode + responsive
-- [ ] Deploy to Cloudflare Pages
+- [ ] Create Cloudflare Workers function
+- [ ] GET /api/word/{word} endpoint
+- [ ] GET /api/languages endpoint
+- [ ] Deploy to Cloudflare Workers
 
 ## Completed
 
-- [x] Phase 1–7 all complete
+- [x] Phase 1–8 all complete

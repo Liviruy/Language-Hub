@@ -13,7 +13,6 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 | Dictionary | FreeDictionary (en) + Wiktionary (es/fr) |
 | TTS | Edge TTS — en:Jenny / es:Alvaro / fr:Denise |
 | Anki GUID | Stable md5(text + lang) |
-| Import | Skip duplicates; Audio: skip if file exists |
 | R2 bucket | `language-hub` (auto-created) |
 | R2 structure | `audio/{lang}/{word}.mp3`, `exports/{deck}.apkg` |
 
@@ -25,21 +24,19 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 | With audio | 31 (100%) |
 | Anki decks | 10 .apkg |
 | R2 files | 41 (31 audio + 10 exports) |
+| Website | Live on blog: Firefly theme, /bangumi/ |
 
 ## Completed Phases
-1. ✅ Project Initialization
-2. ✅ Database Design
-3. ✅ Importer
-4. ✅ Dictionary Pipeline
-5. ✅ Audio Generation
-6. ✅ Anki Export
-7. ✅ Cloudflare R2 — bucket created, 41 files uploaded incrementally
+1-7. ✅ All completed
+8. ✅ Website — Dictionary page on personal blog (Astro, Firefly theme)
+   - Search, language filter, audio playback, dark mode
 
 ## Current Phase
-### Phase 8 — Website (next)
-Goal: Build an Astro dictionary website with search, word pages, audio.
+### Phase 9 — API (next)
+Goal: Cloudflare Workers REST API.
+- GET /api/word/{text} — returns word data as JSON
+- GET /api/languages — list supported languages
 
 ## Phase Order
-8. Website (Astro) ← next
-9. API (Cloudflare Workers, optional)
+9. API (Cloudflare Workers, optional) ← next
 10. Automation (GitHub Actions)
