@@ -4,39 +4,31 @@
 Personal multilingual language learning platform. Database-first, automation-driven.
 
 ## Tech Stack
-Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Actions
-
-## Design Decisions
-| Decision | Choice |
-|----------|--------|
-| DB schema | Single `words` table with JSON fields |
-| Dictionary | FreeDictionary (en) + Wiktionary (es/fr) |
-| TTS | Edge TTS — en:Jenny / es:Alvaro / fr:Denise |
-| Anki GUID | Stable md5(text + lang) |
-| R2 bucket | `language-hub` (auto-created) |
-| R2 structure | `audio/{lang}/{word}.mp3`, `exports/{deck}.apkg` |
+Python 3.12+ | SQLite | Astro | Cloudflare R2/Wrangler | genanki | Edge TTS | GitHub Actions
 
 ## Repository State
 | Metric | Value |
 |--------|-------|
 | Total words | 31 (en:6, es:13, fr:12) |
-| With definitions | 31 (100%) |
 | With audio | 31 (100%) |
 | Anki decks | 10 .apkg |
-| R2 files | 41 (31 audio + 10 exports) |
-| Website | Live on blog: Firefly theme, /bangumi/ |
+| R2 files | 41 |
+| API endpoints | 37 static endpoints (list + by language + per word) |
 
 ## Completed Phases
-1-7. ✅ All completed
-8. ✅ Website — Dictionary page on personal blog (Astro, Firefly theme)
-   - Search, language filter, audio playback, dark mode
+1-7. ✅ All complete
+8. ✅ Website — Astro page on blog (Firefly theme), search + filters + audio
+9. ✅ API — Static JSON endpoints via Astro API routes
+   - GET /api/language-hub/words.json — all words
+   - GET /api/language-hub/words/{en|es|fr}.json — by language
+   - GET /api/language-hub/word/{word}.json — single word lookup
 
 ## Current Phase
-### Phase 9 — API (next)
-Goal: Cloudflare Workers REST API.
-- GET /api/word/{text} — returns word data as JSON
-- GET /api/languages — list supported languages
+### Phase 10 — Automation (next)
+Goal: GitHub Actions CI/CD pipeline.
+
+Pipeline:
+- git push → build scripts → enrich dictionary → generate audio → export anki → upload R2 → rebuild website → deploy
 
 ## Phase Order
-9. API (Cloudflare Workers, optional) ← next
-10. Automation (GitHub Actions)
+10. Automation (GitHub Actions) ← next

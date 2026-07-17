@@ -1,12 +1,11 @@
 # Tasks
 
-## Phase 9 — API (Current)
+## Phase 10 — Automation (Current)
 
-- [ ] Create Cloudflare Workers function
-- [ ] GET /api/word/{word} endpoint
-- [ ] GET /api/languages endpoint
-- [ ] Deploy to Cloudflare Workers
+- [ ] Create .github/workflows/pipeline.yml
+- [ ] Pipeline: import → dictionary → audio → anki → R2 → website
+- [ ] Test with git push
 
 ## Completed
 
-- [x] Phase 1–8 all complete
+- [x] Phase 1–9 all complete
