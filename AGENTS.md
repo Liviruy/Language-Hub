@@ -3,61 +3,67 @@
 ## Project Overview
 
 Personal multilingual language learning platform. Database-first, automation-driven.
-Database is the single source of truth; everything else (Anki, website, audio) is generated from it.
 
 ## Tech Stack
 
-- Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Actions
-- Virtual env: \.venv/\ | Dependencies: equirements.txt
+Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Actions
+
 ## Design Decisions (Approved)
 
 | Decision | Choice |
 |----------|--------|
-| Database schema | Single \words\ table with JSON fields for meanings/audio/tags (not full normalization) |
+| Database schema | Single `words` table with JSON fields for meanings/audio/tags |
 | Dictionary source | Wiktionary API (free, covers en/es/fr) |
 | TTS | Edge TTS (fallback Google) |
-| Anki generation | genanki with stable GUID (hash of word_text + language_code) |
-| Audio regeneration | Skip if already exists (cache based on database record) |
+| Anki GUID | Stable: hash(word_text + language_code) |
+| Audio | Skip if exists (cache based on DB record) |
 
-## Repository Documents
+## Repository Docs
 
 | File | Purpose |
 |------|---------|
 | README.md | Project intro |
-| PROJECT_PLAN.md | Overall plan & specs |
+| PROJECT_PLAN.md | Overall plan |
 | ARCHITECTURE.md | System architecture |
-| DATABASE.md | Database schema |
-| ROADMAP.md | Full roadmap with flow explanation |
-| AGENT_RULES.md | AI agent working rules |
-| TASKS.md | Current task checklist |
+| DATABASE.md | Database design |
+| ROADMAP.md | Roadmap with flow |
+| AGENT_RULES.md | AI agent rules |
+| TASKS.md | Current tasks |
 | CHANGELOG.md | Version history |
+| AGENTS.md | This file — agent context |
 
 ## Completed Phases
 
-### Phase 1 — Project Initialization ✅
-
-- Directory structure created (data/raw, data/processed, data/audio, data/images, database, docs, exports, scripts, tests, website)
-- .gitignore configured (Python/DB/IDE/OS/venv patterns)
-- requirements.txt with all dependencies
-- Python virtual environment .venv/ created, all deps installed
-- Verified: Python 3.13, all imports OK, pytest 9.1.1
+### Phase 1 ✅ — Project Initialization
+- Directory structure: data/(raw,processed,audio,images), database, docs, exports, scripts/(migrations), tests, website
+- .gitignore (Python/DB/IDE/OS/venv)
+- requirements.txt (requests, edge-tts, genanki, boto3, pytest, sqlite-utils, python-dotenv)
+- Virtual env .venv/ with all deps installed
 - Pushed to GitHub
+
+### Phase 2 ✅ — Database Design
+- Database: `database/language.db` created (36 KB)
+- Schema: `languages` + `words` (with JSON fields meanings/audio/tags) + `_migrations`
+- Indexes: idx_words_language, idx_words_text, idx_words_cefr
+- Migration system: `scripts/migrations/001_initial_schema.sql`
+- Init script: `scripts/init_database.py` (auto-runs pending migrations, seeds languages)
+- Verify script: `scripts/verify_db.py`
+- Seeded languages: en (English), es (Spanish), fr (French)
 
 ## Current Phase
 
-### Phase 2 — Database Design (in progress)
+### Phase 3 — Importer (next)
+Goal: Import vocabulary from CSV/JSON files into the database.
 
-Goal: Create \database/language.db\ with migration system.
+Upcoming scripts:
+- `scripts/import_words.py` — read CSV/JSON and insert into words table
+- Tests for import logic
 
-**Tables:**
-- \languages\ — id, code (en/es/fr), name
-- \words\ — id, language_id (FK), text, ipa, cefr, frequency, meanings (JSON), audio (JSON), tags (JSON), created_at, updated_at
+See ROADMAP.md for full details.
 
-**Migrations:** \scripts/migrations/001_initial_schema.sql\ — schema SQL
-Migration tracker table: \_migrationsInit script: \scripts/init_database.py
-## Phase Order (not started)
+## Phase Order
 
-3. Importer (CSV/JSON to DB)
+3. Importer ← next
 4. Dictionary pipeline (Wiktionary API)
 5. Audio generation (Edge TTS)
 6. Anki export (genanki)
@@ -68,16 +74,15 @@ Migration tracker table: \_migrationsInit script: \scripts/init_database.py
 
 ## Agent Workflow
 
-1. Read AGENTS.md + TASKS.md + relevant doc to understand current state
-2. Present plan before coding
-3. Wait for human approval
-4. Implement (code + test)
-5. Validate (run without errors)
-6. Commit and push
-7. Mark tasks complete, update AGENTS.md
+1. Read AGENTS.md + TASKS.md + relevant doc → understand state
+2. Present plan → wait for approval
+3. Implement (code + test)
+4. Validate (run without errors)
+5. Commit + push
+6. Update AGENTS.md + TASKS.md
 
 ## Git Config
 
 - Remote: https://github.com/Liviruy/Language-Hub.git
-- Branch: main (up-to-date with origin/main)
-- Docs directory: E:\Language-Hub
+- Branch: main
+- CWD: E:\Language-Hub
