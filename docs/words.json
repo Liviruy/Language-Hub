@@ -1,60 +1,6 @@
 {
   "words": [
     {
-      "text": "evident",
-      "lang": "en",
-      "lang_name": "English",
-      "ipa": "/ˈɛ.vɪ.dənt/",
-      "cefr": "",
-      "meanings": [
-        {
-          "pos": "adjective",
-          "definition": "Obviously true by simple observation.",
-          "translation": "",
-          "examples": [
-            "It was evident she was angry, after she slammed the door."
-          ]
-        }
-      ],
-      "audio": [
-        {
-          "file_path": "E:\\Language-Hub\\data\\audio\\en\\evident.mp3",
-          "voice": "en-US-JennyNeural",
-          "provider": "edge_tts"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "text": "serendipity",
-      "lang": "en",
-      "lang_name": "English",
-      "ipa": "/ˌsɛ.ɹən.ˈdɪ.pɪ.ti/",
-      "cefr": "",
-      "meanings": [
-        {
-          "pos": "noun",
-          "definition": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "An unsought, unintended, and/or unexpected, but fortunate, discovery and/or learning experience that happens by accident.",
-          "translation": "",
-          "examples": []
-        }
-      ],
-      "audio": [
-        {
-          "file_path": "E:\\Language-Hub\\data\\audio\\en\\serendipity.mp3",
-          "voice": "en-US-JennyNeural",
-          "provider": "edge_tts"
-        }
-      ],
-      "tags": []
-    },
-    {
       "text": "goodbye",
       "lang": "en",
       "lang_name": "English",
@@ -73,7 +19,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\en\\goodbye.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/en/goodbye.mp3",
           "voice": "en-US-JennyNeural",
           "provider": "edge_tts"
         }
@@ -101,7 +47,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\en\\hello.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/en/hello.mp3",
           "voice": "en-US-JennyNeural",
           "provider": "edge_tts"
         }
@@ -138,7 +84,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\en\\book.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/en/book.mp3",
           "voice": "en-US-JennyNeural",
           "provider": "edge_tts"
         }
@@ -175,7 +121,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\en\\develop.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/en/develop.mp3",
           "voice": "en-US-JennyNeural",
           "provider": "edge_tts"
         }
@@ -185,295 +131,32 @@
       ]
     },
     {
-      "text": "casa",
-      "lang": "es",
-      "lang_name": "Spanish",
-      "ipa": "",
-      "cefr": "",
+      "text": "gratitude",
+      "lang": "en",
+      "lang_name": "English",
+      "ipa": "/ˈɡrætɪtjuːd/",
+      "cefr": "B1",
       "meanings": [
         {
           "pos": "noun",
-          "definition": "Domicilio. Uso: cuando «casa» se refiere al lugar en el que habitualmente habitan uno o más individuos, no se utiliza artículo ni posesivo, a menos que este sea necesario, después de la preposición, el posesivo es necesario para distinguir que la acción del sujeto se refiere a la casa de este y no a la de quien enuncia la oración: «juanito se enojó y se fue a su casa»",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Piso, departamento o local que, aunque no constituya una edificación entera, tiene las dependencias mínimas para que lo habite una familia, un grupo de personas o una persona sola.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Cualquier tipo de alojamiento, sea obra de albañilería, choza o cabaña, que se destina a ese fin.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Descendencia o linaje que tiene un mismo apellido, y viene del mismo origen.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Conjunto de hijos y domésticos que componen una familia.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Establecimiento comercial o cualquiera de sus sucursales. 8 Astrología Cada una de las 12 divisiones de la esfera celeste tomando como base la línea del horizonte, y que representan un aspecto de un signo zodiacal.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Estados y rentas de un señor. 10 Juegos En el juego del ajedrez, en el de las damas y en otros, cada uno de los cuadros en que está dividido el tablero. 11 Juegos En el juego de tablas reales, cada uno de los semicírculos cortados en la misma madera a los dos lados del tablero, en donde se van colocando las piezas para ocupar las casas según la suerte de los dados. 12 Billar espacio dividido por una raya a la cabecera de la mesa, desde el cual juega el que tiene bola en mano.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Lugar, casería. 14 Heráldica Símbolo de hospitalidad, en heráldica, pintada de frente o de perfil.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Convento.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tercera persona del singular (él, ella, ello; usted, 2.ª persona) del presente de indicativo de casar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Segunda persona del singular (tú) del imperativo afirmativo de casar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Casa. Hiperónimo: edifici. Hipónimos: alqueria, barraca.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tercera persona del singular del presente de indicativo de casar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Segunda persona del singular (tú) del imperativo afirmativo de casar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tercera persona del singular del pretérito de indicativo de caser.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Casa. Ejemplo:",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tienda.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Choza, cabaña.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tienda.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tercera persona del singular del presente de indicativo de casar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Segunda persona del singular (tú) del imperativo afirmativo de casar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Romper.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Forma del nominativo definido singular de casă.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Forma del acusativo definido singular de casă.",
-          "translation": "",
-          "examples": []
+          "definition": "The quality of being thankful; readiness to show appreciation for and to return kindness.",
+          "translation": "感恩",
+          "examples": [
+            "She expressed her gratitude to everyone who helped her.",
+            "I owe you a debt of gratitude."
+          ]
         }
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\casa.mp3",
-          "voice": "es-ES-AlvaroNeural",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/en/gratitude.mp3",
+          "voice": "en-US-JennyNeural",
           "provider": "edge_tts"
         }
       ],
-      "tags": []
-    },
-    {
-      "text": "libro",
-      "lang": "es",
-      "lang_name": "Spanish",
-      "ipa": "",
-      "cefr": "",
-      "meanings": [
-        {
-          "pos": "noun",
-          "definition": "Conjunto de hojas de papel unidas por un borde formando un volumen. Ejemplo:",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Obra escrita de la suficiente entidad para publicarse por separado.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "División de un libro2 de gran extensión, a su vez habitualmente subdividida en capítulos.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Texto de una obra teatral u operística.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Figuradamente, cualquier compendio de la que se puede extraer instrucción. 6 Zoología Tercera cavidad del estómago de los rumiantes.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tributo que recauda el estado para financiar sus gastos.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Primera persona del singular (yo) del presente de indicativo de librar.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Libro.",
-          "translation": "",
-          "examples": []
-        }
-      ],
-      "audio": [
-        {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\libro.mp3",
-          "voice": "es-ES-AlvaroNeural",
-          "provider": "edge_tts"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "text": "merienda",
-      "lang": "es",
-      "lang_name": "Spanish",
-      "ipa": "",
-      "cefr": "",
-      "meanings": [
-        {
-          "pos": "noun",
-          "definition": "Comida ligera que se toma entre el almuerzo y la cena.",
-          "translation": "",
-          "examples": []
-        }
-      ],
-      "audio": [
-        {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\merienda.mp3",
-          "voice": "es-ES-AlvaroNeural",
-          "provider": "edge_tts"
-        }
-      ],
-      "tags": []
+      "tags": [
+        "B1"
+      ]
     },
     {
       "text": "adiós",
@@ -483,8 +166,8 @@
       "cefr": "A1",
       "meanings": [
         {
-          "pos": "interjección",
-          "definition": "expresión usada para despedirse",
+          "pos": "interjection",
+          "definition": "Expresión usada para despedirse",
           "translation": "再见",
           "examples": [
             "¡Adiós, nos vemos mañana!",
@@ -494,7 +177,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\adiós.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/adiós.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -511,8 +194,8 @@
       "cefr": "A1",
       "meanings": [
         {
-          "pos": "interjección",
-          "definition": "expresión de agradecimiento",
+          "pos": "interjection",
+          "definition": "Expresión de agradecimiento",
           "translation": "谢谢",
           "examples": [
             "Muchas gracias por tu ayuda.",
@@ -522,7 +205,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\gracias.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/gracias.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -550,7 +233,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\hola.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/hola.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -578,7 +261,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\no.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/no.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -606,7 +289,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\por_favor.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/por_favor.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -634,7 +317,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\sí.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/sí.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -662,7 +345,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\amigo.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/amigo.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -690,7 +373,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\comer.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/comer.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -718,7 +401,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\grande.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/grande.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -746,7 +429,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\es\\hablar.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/es/hablar.mp3",
           "voice": "es-ES-AlvaroNeural",
           "provider": "edge_tts"
         }
@@ -754,1240 +437,6 @@
       "tags": [
         "A2"
       ]
-    },
-    {
-      "text": "chien",
-      "lang": "fr",
-      "lang_name": "French",
-      "ipa": "",
-      "cefr": "",
-      "meanings": [
-        {
-          "pos": "noun",
-          "definition": "chien \\ʃjɛ̃\\ masculin (pour la femelle, on dit : chienne)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Cynologie) Mammifère carnivore de la famille des Canidés, apparenté au loup (dont il est considéré comme une sous-espèce) et domestiqué par l’être humain, existant sous de nombreuses races aux morphologies variables, de nom scientifique : Canis lupus familiaris.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Il faut que les piqueurs aient l’œil à terre dans tous les lieux où ils croiront de pouvoir en revoir, afin d’aider à leurs chiens & s’assurer que c’est le cerf de la meute qu’ils chassent. — (Encyclopédie ou Dictionnaire universel raisonné des connoissances, tome 42, 1775, page 19)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le chien s’était mis à rôder dans les environs, fouillant avidement les tas d’ordures, sans doute pour y déterrer un os ou quelque régal de ce genre. — (Octave Mirbeau, « La Mort du chien » dans Lettres de ma chaumière, 1886)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Quelques chiens, des braques hongrois, gambadent sur les pelouses. — (Daniel Apruz, Le coq, 1992)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le chien, qui se faisait vieux et n’aimait point à découcher, était, comme d’habitude, rentré dès le premier soir et gardait le coin du feu, car on était en hiver. — (Louis Pergaud, Le Retour, dans Les Rustiques, nouvelles villageoises, 1921)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Les chiens distinguent-ils les hommes de leurs sœurs les jeunes filles, de leurs femmes les femmes ; les chiens peuvent-ils être attentifs à d’autres qu’à la vieille demoiselle en visite qui leur dit, grattant le dessous de sa chaise : « Le chat ! » — (Jean Giraudoux, Provinciales, Grasset, 1922, réédition Le Livre de Poche, page 123)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "L’ouverture donnait sur la loge de Gaby Million où la vedette avait laissé ses chiens. Les bêtes se mirent à aboyer. — Naturellement c’est plein de cabots, crut devoir déclarer spirituellement Mr. Morgan. — (Francis Carco, L’Homme de minuit, Éditions Albin Michel, Paris, 1938)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Baharé promène mon chien pendant un moment.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sens figuré) (Familier) Personne rude ou sévère, avare, déloyale, ou faisant autrement preuve de bassesse.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Oui, pourquoi, roumi, chien, fils de chien, viens-tu encore à cette heure, avec ta femme trois fois maudite, me narguer jusque dans ce bouge… — (Isabelle Eberhardt, Yasmina, 1902)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "– Maintenant on a la certitude que c’est cette ordure de Jacques qui l’a donné, c’est exactement le même coup que pour Lafont… Son compte est bon !... Ce chien ! Ce chien ! Ce chien ! Ce chien ! » Il sortit de la pièce. — (Elsa Triolet, Le premier accroc coûte deux cents francs, 1944, réédition Cercle du Bibliophile, page 75)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sens figuré) (Péjoratif) Personne méprisée, dont l’humanité est niée, considérée digne d’être maltraitée comme certains maltraitent les bêtes.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "— De maison en maison, répéta l’homme en blanc, aussi attendri qu’au souvenir d’une fête mémorable à laquelle il aurait participé. On ne s’arrêtait que pour manger et prier. Les cadavres jonchaient les rues, et quand leurs proches essayaient de se faufiler dehors pour les ramener chez eux, on les tuait eux aussi. On les a laissés pourrir plusieurs jours comme ça. Pour les chiens. De la viande de chien pour les chiens. — (Khaled Hosseini, Les Cerfs-volants de Kaboul, chapitre 22, traduit de l’anglais (États-Unis) par Valérie Bourgeois, Paris, 10/18, Belfond, 2023 (2005), page 320)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sens figuré) (Bible) Prostitué homosexuel.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tu n’apporteras point dans la maison de l’Éternel, ton Dieu, le salaire d’une prostituée ni le prix d’un chien, pour l’accomplissement d’un vœu quelconque ; car l’un et l’autre sont en abomination à l’Éternel, ton Dieu. — (Deutéronome, XXIII, 19, traduction de Louis Segond)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Cartes à jouer) Talon de cartes constitué par celui qui distribue au jeu de tarot, le preneur devra écarter autant de cartes avant que la partie commence.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Les différents contrats du tarot sont : • la pousse (La pousse est l'enchère minimale du tarot. Elle rapporte 25 points en cas de succès. Ce contrat se joue avec le chien pour le preneur.); • la garde (La garde est l'enchère au-dessus de la pousse. Elle rapporte 50 points en cas de succès. Elle se joue avec le chien.) ; […]. — (Yann Caudal, Le grand guide des jeux de cartes, Editions Eyrolles, 2011 page. 134)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Marine) Mâchoire métallique empêchant les deux funes d’un chalut de s’écarter pendant le trait.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Pendant toute la durée du chalutage un pêcheur expérimenté se tient près du chien et apprécie, en tâtant les funes, les trépidations et les secousses subies par l'appareil. Il peut donc indiquer à temps s'il faut diminuer de vitesse ou même stopper. — (G. Massenet, Technique et pratique des grandes pêches maritimes, Paris : chez Augustin Challamel, 1913, page 67)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Technique) (Vieilli) Chariot qui servait au transport du minerai dans les mines.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "On amène le chien au front de taille et les rouleurs le remplissent en se servant d'une houe et d'une pelle. Le chien est ensuite mené directement à la recette ou au pied des puits secondaires, où il est déchargé. On transporte ainsi 215 kil. à chaque voyage. — (N. Haton, « Mémoire sur les Établissements d'Agordo (Haute-Vénétie) » , dans les Annales des mines, 5e série, Mémoires - tome 8, Paris : chez Victor Dalmont, 1855, page 423)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Technique) (Vieilli) Outil de tonnelier.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "En effet, puisque les vêtements, outils et autres objets ayant appartenu au défunt sont remis à son fils à diverses dates entre le 13 et le 19 juillet, ainsi le « chien de tonnelier livré au fils de Desjardins sur billet de monsieur le baillif du 13e juillet 1684... — (Georges Desjardins, Antoine Roy dit Desjardins, 1635-1684 et ses descendants, Dijon : Éditions du Bien public, 1971, page 33)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Technique) (Vieilli) Barre de fer avec deux crochets, dont l’un est mobile pour assembler la menuiserie.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Technique) Outil utilisé par les cordonniers pour assembler les chaussures.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Par analogie) (Armement) Pièce d’une arme à feu portative, qui assure la percussion de l’amorce de la cartouche.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "L’inconnu arma le pistolet, et l’on entendit au milieu du profond silence qui accompagnait les intervalles du dialogue le craquement du chien. — (Alexandre Dumas, Joseph Balsamo, 1846)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "C’était le petit Gavroche qui s’en allait en guerre. Sur le boulevard il s’aperçut que le pistolet n’avait pas de chien. — (Victor Hugo, Les Misérables, IV, 11, 1 ; 1862)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le jeune homme caressait son arme avec amour ; il rabattit le chien à plus de vingt reprises, introduisit son petit doigt dans le canon, examina attentivement la crosse. — (Émile Zola, La Fortune des Rougon, G. Charpentier, Paris, 1871, chapitre I ; réédition 1879, page 13)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "[…] un très joli fusil, qui paraissait tout neuf. Les canons étaient d'un beau noir mat, la gâchette était nickelée et, sur la crosse sculptée, s'allongeait un chien, noyé dans le bois verni. — (Marcel Pagnol, La gloire de mon père, 1957, Le Livre de Poche, page 231)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "La crosse n’en était pas sculptée, et elle avait perdu son vernis ; la gâchette n'était pas nickelée, et les chiens étaient si grands qu’ils avaient l’air d’un ouvrage de ferronnerie. — (Marcel Pagnol, La gloire de mon père, 1957, Le Livre de Poche, page 233)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sens figuré) (Familier) En parlant de choses ou de personnes : très mauvais, exécrable.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le bourgeois. – Que le bon Dieu protège la ville ! Il en sort tous les jours de nouveaux, de ces chiens d’Allemands, de leur damnée forteresse. — (Alfred de Musset, Lorenzaccio, acte I, scène 2, 1834)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Il alla à la fenêtre. La neige tombait toujours et rayait le gris du ciel. – Quel chien de temps ! dit-il. — (Victor Hugo, Les Misérables, III, 8, 8 ; 1862)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Cela n’est pas tant chien. : Cela n’est pas trop mauvais.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "– Savez-vous, reprit le père, qu’il fait un froid de chien dans ce galetas du diable ? — (Victor Hugo, Les Misérables, III, 8, 8 ; 1862)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Ichtyologie) Synonyme d’émissole lisse car elle se rassemble souvent en meutes comme les chiens (poisson).",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Musique) Pièce de bois placée entre un bourdon et la table d’harmonie d’une vielle qui permet au joueur de rythmer la mélodie avec un son grésillant.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Héraldique) Meuble représentant l’animal du même nom dans les armoiries. Il s’agit généralement d’un braque mais la race importe peu sauf quand il s’agit d’un lévrier. Il est généralement passant. À rapprocher de goupil, levrette, lévrier, loup et renard.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Coupé, au premier d’azur, au deuxième ondé d’argent et d’azur de six pièces, au chien braque d’or colleté et bouclé de sable lampassé de gueules brochant sur le tout, qui est d’Hundsbach d’Alsace → voir illustration « armoiries avec un chien »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Technique) Pinceau court, en poils de sanglier, utilisé par les doreurs, et destinés à lustrer l’assiette avant la pose d’une feuille d’or.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Une bordure unie doit se commencer comme nous allons l’indiquer; il faut d’abord que l’assiette soit frottée au chien ou au drap et époussetée au blaireau; on jette un coup d'œil rapide sur la pièce à travailler, si l’on aperçoit un ou plusieurs grains, on les fait sauter sans attaquer l'assiette, […]. — (M. J. Saulo, Nouveau manuel complet de la Dorure sur Bois à l’eau et à la mixtion, Paris : Librairie encyclopédique Roret, 1886, page 59)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Technique) Héridelle.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Maçonnerie) Outil utilisé pour griffer un enduit frais de manière à pouvoir ensuite faire tenir par dessus un parement ou un crépi.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Familier) Charme provocant.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "- Oh, elle était belle, continua-t-elle sans tenir compte de l’interruption. Terriblement sexy. Un chien à fleur de peau, et elle savait en jouer, croyez-moi ! — (Tito Topin, Brelan de nippons, Série noire, Gallimard, 1982, page 116)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Objet d’une ancienne taxe perçue par les communes.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le contrôleur lui-même sait que pour ma famille les chiens de chasse n’ont pas plus d’importance que des chiens de berger, et il se garde de les taxer plus d’un franc. — (Jean Giraudoux, Provinciales, Grasset, 1922, réédition Le Livre de Poche, page 48)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Ce soir, après le banquet du chien des moissons, on lui remettrait son compte. — (Pierre Arnoux, La vigne au loup, Paris : Éditions France-Empire, 1996)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Suivant l’expression consacrée, les agriculteurs de Pâlis auront donc fait le chien de moisson ce lundi, symbole de la fin des quelques jours de travail intensif qui caractérisent désormais cette épisode toujours délicat dans la saison du paysan. — (Matthieu, Chien de moisson, 31 juillet 2008 → lire en ligne)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le chien des vendanges est bien sûr prévu avec la remise d'un sécateur d'or au plus méritant : « […] ». — (Les vendanges à Bergères : retour sur le parcours d’un vigneron et d’une coopérative, L’Union/L’Est Eclair, 15 septembre 2021)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Coiffure) Frange de cheveux qui retombe sur le front.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "En ce temps-là tu t’en souviensComme devanture t’avais des chiensDes tas de colliers autour du couEt des paillettes un peu partout — (chanson « La gommeuse de 1900 », paroles Claude Delécluse et Michèle Senlis, musique de Charles Dumont)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Ce ou ces termes devraient être créés dans des articles séparés.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Canis lupus familiaris",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Le chien aboie, jappe, hurle quand il pousse son cri (en vénerie, il y a un vocabulaire élaboré qui distingue une grande variété d’appels de chien). La femelle s’appelle la chienne, le petit s’appelle le chiot.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Marques substitutives :",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "chien figure dans les recueils de vocabulaire en français ayant pour thème : art funéraire, police, chien, arme, chien terrier, truffe, mine (gisement), jeu de cartes, bestiaire médiéval, diable, momie égyptienne, Mithra.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "(Sens figuré) (Familier) Avare ; radin ; très près de ses sous.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Ce ne serait pas la calomnier de dire qu'elle était chien , mais chien à ne pas payer un verre ! — (Édouard Conte, Les Mal Vus, Paris : Librairie Flammarion, 1894, page 282)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "D'ordinaire il n'est pas chien du tout ; il serait même plutôt prodigue. — (Hervé Bazin, Cri de la chouette, Grasset, 1972, réédition Le Livre de Poche, page 172)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Examine gentiment. L'offre n'est pas dans la fourchette haute, c'est vrai, mais on est en famille, tu vas pas être chien avec ton gendre. — (Luc Lang, La tentation, Éditions Stock, 2019)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "(Sens figuré) (Familier) (Québec) Injuste ; méchant.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Mon père fait la première étude, celle des élèves de mathématiques, de rhétorique et de philosophie. Il n’est pas aimé, on dit qu’il est chien. — (Jules Vallès, L’Enfant, G. Charpentier, 1889)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "C’est à peine un souvenir, une sorte d’impression qui fut profonde, mais que vingt années environ d’une vie très chienne ont presque effacée. — (Léon Bloy, L’Abyssinien dans Sueur de sang, 1893)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "— De toute façon, ce n'est pas juste ce qui vient de se passer. Xavier est chien avec moi depuis des semaines. J'en ai ma claque. — (Marie Potvin, Les Filles modèles, tome 7: Transitions chocs, Montréal (Québec/Canada) : Éditions Les Malins Inc., 2017 & Leverval (Belgique) : Éditions Kennes, 2018)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "cela n’est pas tant chien : ce n’est pas si mauvais",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "La prononciation \\ʃjɛ̃\\ rime avec les mots qui finissent en \\jɛ̃\\.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France : écouter « un chien [œ̃.ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "(Région à préciser) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Massy) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Paris) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Suisse (Genève) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Toulouse) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Muntzenheim) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Grenoble) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Suisse (canton du Valais) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Lyon) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Vosges) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Montpouillan) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Hérault) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Suisse (Lausanne) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Metz) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France (Fontainebleau) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "canton du Valais (Suisse) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Montpellier (France) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Français méridional : \\ʃjɛŋ\\",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Parler gaga : \\ʃjɛ̃\\ ou \\ʃjɛɛ̃\\",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Canada (Laurentides) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Canada (Shawinigan) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Mulhouse (France) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "(Région à préciser) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Quimper (France) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Grenoble (France) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Vosges (France) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "France : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Canet-en-Roussillon (France) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Perpignan (France) : écouter « chien [ʃjɛ̃] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Somain (France) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Courmayeur (Italie) : écouter « chien [Prononciation ?] » (niveau moyen)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Vendée (France) : écouter « chien [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "→ Modifier la liste d’anagrammes",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Le thésaurus héraldique en français",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Chien (homonymie) sur l’encyclopédie Wikipédia",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "chien sur le Dico des Ados",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "chien dans le recueil de citations Wikiquote",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "chien sur l’encyclopédie Vikidia",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "« chien », dans TLFi, Le Trésor de la langue française informatisé, 1971–1994 → consulter cet ouvrage",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "Dictionnaire de l’Académie française, huitième édition, 1932-1935 (chien)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "adjective",
-          "definition": "(c. 1100) Du latin canem, accusatif de canis.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "chien *\\tʃjẽn\\ masculin",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Vous lui durrez urs et leuns et chiens — (La Chanson de Roland, vers no 30, circa 1100.)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Vous lui donnerez des ours, des lions, et des chiens",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Frédéric Godefroy, Dictionnaire de l’ancienne langue française et de tous ses dialectes du IXe au XVe siècle, édition de F. Vieweg, Paris, 1881–1902 → consulter cet ouvrage",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Étymologie manquante ou incomplète. Si vous la connaissez, vous pouvez l’ajouter en cliquant ici.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "chien \\Prononciation ?\\ masculin (graphie ELG)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "La graphie normalisée du gallo : les consonnes sur maezoe.com (archivé). Consulté le 29 juillet 2019",
-          "translation": "",
-          "examples": []
-        }
-      ],
-      "audio": [
-        {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\chien.mp3",
-          "voice": "fr-FR-DeniseNeural",
-          "provider": "edge_tts"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "text": "soleil",
-      "lang": "fr",
-      "lang_name": "French",
-      "ipa": "/sɔ.lɛj/",
-      "cefr": "",
-      "meanings": [
-        {
-          "pos": "noun",
-          "definition": "soleil \\sɔ.lɛj\\ masculin",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Astronomie) Étoile qui donne la lumière et la chaleur à la Terre et aux autres planètes du système solaire.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le soleil, peu élevé au-dessus de l’horizon, décrivait sur le ciel une courbe très allongée. Ses rayons, brillamment réfléchis par les neiges, donnaient plus de lumière que de chaleur. — (Jules Verne, Le Pays des fourrures, J. Hetzel et Cie, Paris, 1873)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Que le soleil est beau quand tout frais il se lève,Comme une explosion nous lançant son bonjour !— Bienheureux celui-là qui peut avec amourSaluer son coucher plus glorieux qu’un rêve ! — (Charles Baudelaire, Le coucher du soleil romantique)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Cette figure, animée d’un mouvement éternel et sans repos, exécute sa révolution avec une vitesse ineffable dans l’espace de vingt-quatre heures : c’est un fait sur lequel le lever et le coucher du soleil n’ont laissé aucun doute. — (Pline l’Ancien, Histoire naturelle, Traduction de Littré)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Il y avait deux longues heures que nous marchions, dans les champs, sous le soleil qui tombait du ciel comme une pluie de feu ; […]. — (Octave Mirbeau, Le Père Nicolas, dans Lettres de ma chaumière, 1885)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Alerte à quatre heures. A cause du soleil, sans doute qu’on n’attendait pas aussi éclatant. Pas un nuage, pas un souffle. — (Jean Giraudoux, Retour d’Alsace - Août 1914, 1916)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Qui qui revient toujours un m’ment d’né? Le soleil!Qui fait qu’on a les yeux tout plissés? Le soleil!Qui fait qu’on a toutes les dents séchées? Le soleil!Qui fait que les femmes s’habillent à moitié? Le soleil! — (François Pérusse, chanson « Le soleil », 2007)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le soleil, le feu, la pluie sont neutres. « Le soleil brille sur les bons comme sur les méchants. » — (Arnaud Desjardins, Les chemins de la sagesse, La Table Ronde, Pocket spiritualité, 1999, page 372)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Par extension) Les rayons lumineux de cet astre.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Deux petites cabanes apparurent sur le Cap Tobin, et le soleil, frappant dans les carreaux d’une fenêtre, nous fit croire un instant à des signaux lumineux ; […]. — (Jean-Baptiste Charcot, Dans la mer du Groenland, 1928)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Pourquoi porter des chapeaux et des vêtements, quand la pigmentation de la peau est la meilleure défense contre le soleil des tropiques […]? — (Alain Gerbault, À la poursuite du soleil ; tome 1 : De New-York à Tahiti, 1929)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "[…] : sur toute l’Ardenne, le temps s’était levé. Le ciel était bleu éblouissant, la neige étincelait au soleil. — (Georges Blond, L’Agonie de l’Allemagne 1944-1945, Fayard, 1952, page 155)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le soleil inonde le salon. — (Lynda Dion, Monstera deliciosa, Hamac, 2015, page 129)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Par métonymie) Zone éclairée ou réchauffée par le soleil.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Et dans un coin de soleil, le bruit des fous rebondissant sur eux, Mousse et François se racontent. — (Anaïs Barbeau-Lavalette, La femme qui fuit, éditions Marchand de feuilles, Montréal, 2015, page 329)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Par analogie) Pièce d’artifice qui tourne autour d’un axe et jette des feux en forme de rayons.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le char à bancs que vous avez vu passer est plein de fusées, de soleils, de pétards et de serpenteaux, comme un caisson d’artillerie. — (Paul Féval, Jean Diable, tome 1, 1862, Édition du groupe « Ebooks libres et gratuits », page 94)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Catholicisme) Cercle d’or ou d’argent garni de rayons, dans lequel est enchâssé un double cristal, destiné à renfermer l’hostie consacrée, et qui est posé sur un pied ordinairement du même métal.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Botanique) (Vieilli) Plante herbacée à haute tige, qui porte de grandes fleurs jaunes radiées, et qu’on appelle également tournesol.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Maisonnettes ceinturées de lierre et coiffées de tuiles rouges, basses-cours où traînent de gros troncs d’arbres er des socs de charrues rouillés; jardinets plantés de soleils à grosse panse d’or et à nombril noir ; [...]. — (Jules Vallès, Le Bachelier, G. Charpentier, Paris, 1881)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le tournesol est surtout cultivé pour ses graines oléagineuses ; une variété, le soleil uniflore ou soleil de Russie, est particulièrement intéressante, surtout la variété à graines blanches. — (Le Chasseur français, no 606, février 1942, page 108)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "D’autre part, nous savons qu’il existe des soleils non lumineux c’est-à-dire des soleils dont nous déterminons l’existence par les mouvements des autres, mais dont la luminosité n’est pas suffisante pour agir sur nous. […] Et en revanche, ne pouvons-nous pas, au moins dans de certains cas, expliquer les apparitions soudaines de soleils sur des points où nous n’en avions pas jusqu’à présent soupçonné l’existence, […]. — (Edgar Poe, Eureka, 1848, traduction de Charles Baudelaire, 1864)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sens figuré) Ce qui est radieux ou brille, réchauffe énormément.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Et pourtant vous serez semblable à cette ordure,À cette horrible infection,Étoile de mes yeux, soleil de ma nature,Vous, mon ange et ma passion ! — (Charles Baudelaire, Une Charogne)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "[…], elle appartient à ce genre de femmes […] dont l’épiderme satiné ressemble à du papier de soie appliqué sur la chair, qui frissonne sous l’hiver ou s’épanouit au soleil du regard, en rendant la main jalouse de l’œil. — (Honoré de Balzac, Modeste Mignon, 1844)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Tu as eu ton jour, vieille dame ; mais, à présent, ton soleil est couché depuis longtemps. — (Walter Scott, Ivanhoé, traduit de l’anglais par Alexandre Dumas, 1820)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sport) Figure de gymnastique pouvant être réalisé aux barres ou aux anneaux.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Ceux, aussi, que le commerce, le sport, les sciences, la peinture, le théâtre, les arts attiraient, et qui puisaient dans un penchant, une aptitude, une soudaine révélation, le moyen et la force de rompre leurs chaînes… Tayole, six grands soleils d’affilée à la barre fixe, serait acrobate ; Passavante, footballeur professionnel ; Le Guern, horloger ; de Marchey, poète-écrivain… — (Yves Gibeau, Allons z’enfants, 1952)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Familier) Chute spectaculaire en passant par-dessus un obstacle.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "En heurtant un caillou, il a fait un soleil par-dessus son vélo.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Ichtyologie) Synonyme de beauclaire de roche.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Le soleil est un poisson circumtropical, présent particulièrement dans les zones insulaires. — (Fiche no 1158: Soleil, site doris.ffessm.fr)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Sénégal) (Informel) Journal (d’après le nom d’un journal sénégalais (Le Soleil)).",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Héraldique) Meuble représentant l’astre du même nom dans les armoiries. Il est généralement représenté plein avec 16 rayons dont la moitié droit, l’autre moitié ondulée. Il est toujours représenté figuré (un visage est visible avec yeux, nez et bouche). S’il n’est figuré, on le précise dans le blasonnement en utilisant : soleil non figuré ou ombre de soleil. Si le nombre de rais diffère de l’ordinaire, il faut le préciser. À rapprocher de ombre de soleil, soleil couchant, soleil éclipsé, soleil éteint, soleil levant, soleil non figuré, soleil rayonnant, soleil vidé et soleil virgulé.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "D’azur au soleil d’or surmonté de deux trèfles d’argent, qui est de la commune de Cornaux en Suisse → voir illustration « armoiries avec un soleil »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "(Cartes à jouer) Dix-neuvième atout du tarot de Marseille.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "« Solune, le fils de John Difool, est le Soleil et la Lune du Tarot. — (Alejandro Jodorowsky dans L’Incal : Les Mystères de l’Incal, 2016)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "La clameur déferla du soleil, balaya la piste et sembla redonner vie au toro qui, sanguinolent, se mit à courir. — (Philippe Sollers, Une curieuse solitude, Seuil, 1958, réédition Le Livre de Poche, page 50)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "Gigantesque réacteur de fusion nucléaire, à l'image du soleil, mais en plus petit.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "D’après South China Morning Post, qui cite l’agence de presse chinoise Xinhua, des scientifiques ont recréé un soleil artificiel à 70 millions de degrés durant 17 minutes et 36 secondes. — (Anthony Roberfroid, «Fusion nucléaire : 70 millions de degrés pendant 17 minutes, la Chine bat un record de durée pour son \"soleil artificiel\"», RTBF, 5 janvier 2022)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "il n’y a rien de nouveau sous le soleil",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "le soleil luit pour tout le monde (il est des avantages dont tout le monde a le droit de jouir)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "ôte-toi de mon soleil !",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "que le soleil me tombe sur la tête !",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "rien de nouveau sous le soleil",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "sous le soleil, rien de nouveau",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "soleil figure dans les recueils de vocabulaire en français ayant pour thème : astronomie, tournesol, soleil, jeu de cartes, plage, bonheur, chute, barbecue, châtaigne, feu d’artifice, ciel, héraldique.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "La prononciation \\sɔ.lɛj\\ rime avec les mots qui finissent en \\ɛj\\.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France : le soleil : écouter « soleil [lə sɔ.lɛj] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Région parisienne) : écouter « soleil [so.lɛj] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Massy) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "(Région à préciser) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Paris) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Toulouse) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Vosges) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Suisse (canton du Valais) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Hérault) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Suisse (Lausanne) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Metz) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Cesseras) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "France (Lyon) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Mulhouse (France) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Normandie (France) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Grenoble (France) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "canton du Valais (Suisse) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Somain (France) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Saint-Nazaire (France) : écouter « soleil [so.lɛj] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Brest (France) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Courmayeur (Italie) : écouter « soleil [Prononciation ?] » (niveau moyen)",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Vendée (France) : écouter « soleil [Prononciation ?] »",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "→ Modifier la liste d’anagrammes",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "soleil sur l’encyclopédie Wikipédia",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "soleil sur le Dico des Ados",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "soleil dans le recueil de citations Wikiquote",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Le thésaurus héraldique en français",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Liste des meubles héraldiques sur l’encyclopédie Wikipédia",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Tout ou partie de cet article a été extrait du Dictionnaire de l’Académie française, huitième édition, 1932-1935 (soleil), mais l’article a pu être modifié depuis.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "verb",
-          "definition": "Diminutif du latin sol.",
-          "translation": "",
-          "examples": []
-        },
-        {
-          "pos": "noun",
-          "definition": "soleil *\\Prononciation ?\\ masculin",
-          "translation": "",
-          "examples": []
-        }
-      ],
-      "audio": [
-        {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\soleil.mp3",
-          "voice": "fr-FR-DeniseNeural",
-          "provider": "edge_tts"
-        }
-      ],
-      "tags": []
     },
     {
       "text": "au revoir",
@@ -1998,17 +447,17 @@
       "meanings": [
         {
           "pos": "interjection",
-          "definition": "Formule de politesse utilisée pour prendre congé",
+          "definition": "Formule de politesse utilisee pour prendre conge",
           "translation": "再见",
           "examples": [
-            "Au revoir, à demain!",
+            "Au revoir, a demain!",
             "Elle nous a dit au revoir avant de partir."
           ]
         }
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\au_revoir.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/au_revoir.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2026,17 +475,17 @@
       "meanings": [
         {
           "pos": "interjection",
-          "definition": "formule de salutation",
+          "definition": "Formule de salutation utilisee lorsque on rencontre quelqu un",
           "translation": "你好",
           "examples": [
             "Bonjour, comment allez-vous?",
-            "Elle a dit bonjour à tout le monde."
+            "Elle a dit bonjour a tout le monde."
           ]
         }
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\bonjour.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/bonjour.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2054,7 +503,7 @@
       "meanings": [
         {
           "pos": "interjection",
-          "definition": "expression de gratitude",
+          "definition": "Expression de gratitude",
           "translation": "谢谢",
           "examples": [
             "Merci beaucoup pour votre aide.",
@@ -2064,7 +513,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\merci.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/merci.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2082,7 +531,7 @@
       "meanings": [
         {
           "pos": "adverb",
-          "definition": "Marque la négation, le refus",
+          "definition": "Marque la negation, le refus",
           "translation": "不",
           "examples": [
             "Non, je ne veux pas.",
@@ -2092,7 +541,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\non.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/non.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2120,7 +569,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\oui.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/oui.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2148,7 +597,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\ami.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/ami.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2176,7 +625,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\beau.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/beau.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2204,7 +653,7 @@
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\grand.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/grand.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2222,17 +671,17 @@
       "meanings": [
         {
           "pos": "verb",
-          "definition": "Mâcher et avaler un aliment",
+          "definition": "Macher et avaler un aliment",
           "translation": "吃",
           "examples": [
-            "Je mange à midi.",
-            "Nous avons mangé au restaurant."
+            "Je mange a midi.",
+            "Nous avons mange au restaurant."
           ]
         }
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\manger.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/manger.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2250,17 +699,17 @@
       "meanings": [
         {
           "pos": "verb",
-          "definition": "Communiquer par la parole, exprimer sa pensée au moyen du langage",
+          "definition": "Communiquer par la parole",
           "translation": "说话",
           "examples": [
             "Il parle trois langues.",
-            "Nous avons parlé pendant des heures."
+            "Nous avons parle pendant des heures."
           ]
         }
       ],
       "audio": [
         {
-          "file_path": "E:\\Language-Hub\\data\\audio\\fr\\parler.mp3",
+          "file_path": "/home/runner/work/Language-Hub/Language-Hub/data/audio/fr/parler.mp3",
           "voice": "fr-FR-DeniseNeural",
           "provider": "edge_tts"
         }
@@ -2270,5 +719,5 @@
       ]
     }
   ],
-  "total": 31
+  "total": 25
 }
