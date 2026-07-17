@@ -223,10 +223,10 @@ def group_words(conn, language=None):
 
     rows = conn.execute(query, params).fetchall()
 
-    # Group: {(lang, cefr or "Unknown"): [rows]}
+    # Group: {(lang, cefr or "Uncategorized"): [rows]}
     groups = defaultdict(list)
     for row in rows:
-        level = row["cefr"].strip().upper() if row["cefr"] and row["cefr"].strip() else "Unknown"
+        level = row["cefr"].strip().upper() if row["cefr"] and row["cefr"].strip() else "Uncategorized"
         groups[(row["lang"], level)].append(row)
 
     return groups
@@ -324,7 +324,7 @@ def main():
     results = []
 
     # Sort groups: en, es, fr order, then A1, A2, B1 level order
-    level_order = {"A1": 0, "A2": 1, "B1": 2, "B2": 3, "C1": 4, "C2": 5, "Unknown": 99}
+    level_order = {"A1": 0, "A2": 1, "B1": 2, "B2": 3, "C1": 4, "C2": 5, "Uncategorized": 99}
     sorted_groups = sorted(
         groups.items(),
         key=lambda x: (x[0][0], level_order.get(x[0][1], 50)),
@@ -365,3 +365,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

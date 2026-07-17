@@ -177,7 +177,7 @@ def main():
 
     for row in rows:
         lang = row["lang"]
-        level = (row["cefr"] or "Unknown").strip().upper() or "Unknown"
+        level = (row["cefr"] or "Uncategorized").strip().upper() or "Uncategorized"
         deck = ensure_deck(lang, level)
 
         tags = []
@@ -210,3 +210,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
