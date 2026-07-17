@@ -1,11 +1,19 @@
 # Tasks
 
-## Phase 10 — Automation (Current)
+## All Phases Complete! 🎉
 
-- [ ] Create .github/workflows/pipeline.yml
-- [ ] Pipeline: import → dictionary → audio → anki → R2 → website
-- [ ] Test with git push
+- [x] Phase 1: Project initialization
+- [x] Phase 2: Database design
+- [x] Phase 3: Importer
+- [x] Phase 4: Dictionary pipeline
+- [x] Phase 5: Audio generation
+- [x] Phase 6: Anki export
+- [x] Phase 7: Cloudflare R2
+- [x] Phase 8: Website
+- [x] Phase 9: API
+- [x] Phase 10: Automation
 
-## Completed
+## Next Steps (User Setup)
 
-- [x] Phase 1–9 all complete
+1. Configure GitHub Secrets (R2 credentials)
+2. Push a new CSV to test the pipeline

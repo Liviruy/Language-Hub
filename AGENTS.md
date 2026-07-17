@@ -6,6 +6,29 @@ Personal multilingual language learning platform. Database-first, automation-dri
 ## Tech Stack
 Python 3.12+ | SQLite | Astro | Cloudflare R2/Wrangler | genanki | Edge TTS | GitHub Actions
 
+## Completed Phases
+1. ✅ Project Initialization
+2. ✅ Database Design
+3. ✅ Importer
+4. ✅ Dictionary Pipeline
+5. ✅ Audio Generation
+6. ✅ Anki Export
+7. ✅ Cloudflare R2
+8. ✅ Website
+9. ✅ API
+10. ✅ Automation — GitHub Actions pipeline.yml
+
+## Pipeline (auto-runs on git push)
+git push → Install deps → Import words → Dictionary → Audio → Anki → R2 upload → Export words.json
+
+## Before pipeline runs — configure GitHub Secrets
+Go to GitHub repo → Settings → Secrets and variables → Actions
+Add:
+- R2_ACCOUNT_ID
+- R2_ACCESS_KEY
+- R2_SECRET_KEY
+- R2_BUCKET (default: language-hub)
+
 ## Repository State
 | Metric | Value |
 |--------|-------|
@@ -13,22 +36,4 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2/Wrangler | genanki | Edge TTS | Gi
 | With audio | 31 (100%) |
 | Anki decks | 10 .apkg |
 | R2 files | 41 |
-| API endpoints | 37 static endpoints (list + by language + per word) |
-
-## Completed Phases
-1-7. ✅ All complete
-8. ✅ Website — Astro page on blog (Firefly theme), search + filters + audio
-9. ✅ API — Static JSON endpoints via Astro API routes
-   - GET /api/language-hub/words.json — all words
-   - GET /api/language-hub/words/{en|es|fr}.json — by language
-   - GET /api/language-hub/word/{word}.json — single word lookup
-
-## Current Phase
-### Phase 10 — Automation (next)
-Goal: GitHub Actions CI/CD pipeline.
-
-Pipeline:
-- git push → build scripts → enrich dictionary → generate audio → export anki → upload R2 → rebuild website → deploy
-
-## Phase Order
-10. Automation (GitHub Actions) ← next
+| API endpoints | 37 |
