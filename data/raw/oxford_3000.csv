@@ -1,0 +1,3309 @@
+text,language,cefr,meanings,tags
+"a, an",en,A1,,indefinite article
+about,en,A1,,"prep., adv."
+above,en,A1,,"prep., adv."
+across,en,A1,,"prep., adv."
+action,en,A1,,n.
+activity,en,A1,,n.
+actor,en,A1,,n.
+actress,en,A1,,n.
+add,en,A1,,v.
+address,en,A1,,n.
+adult,en,A1,,n.
+advice,en,A1,,n.
+afraid,en,A1,,adj.
+after,en,A1,,prep.
+afternoon,en,A1,,n.
+again,en,A1,,adv.
+age,en,A1,,n.
+ago,en,A1,,adv.
+agree,en,A1,,v.
+air,en,A1,,n.
+airport,en,A1,,n.
+all,en,A1,,"det., pron."
+also,en,A1,,adv.
+always,en,A1,,adv.
+amazing,en,A1,,adj.
+and,en,A1,,conj.
+angry,en,A1,,adj.
+animal,en,A1,,n.
+another,en,A1,,det./pron.
+answer,en,A1,,"n., v."
+any,en,A1,,"det., pron."
+anyone,en,A1,,pron.
+anything,en,A1,,pron.
+apartment,en,A1,,n.
+apple,en,A1,,n.
+April,en,A1,,n.
+area,en,A1,,n.
+arm,en,A1,,n.
+around,en,A1,,"prep., adv."
+arrive,en,A1,,v.
+art,en,A1,,n.
+article,en,A1,,n.
+artist,en,A1,,n.
+as,en,A1,,prep.
+ask,en,A1,,v.
+at,en,A1,,prep.
+August,en,A1,,n.
+aunt,en,A1,,n.
+autumn,en,A1,,n.
+away,en,A1,,adv.
+baby,en,A1,,n.
+back,en,A1,,"n., adv."
+bad,en,A1,,adj.
+bag,en,A1,,n.
+ball,en,A1,,n.
+banana,en,A1,,n.
+band,en,A1,,n.
+bank,en,A1,,(money) n.
+bath,en,A1,,n.
+bathroom,en,A1,,n.
+be,en,A1,,"v., auxiliary v."
+beach,en,A1,,n.
+beautiful,en,A1,,adj.
+because,en,A1,,conj.
+become,en,A1,,v.
+bed,en,A1,,n.
+bedroom,en,A1,,n.
+beer,en,A1,,n.
+before,en,A1,,prep.
+begin,en,A1,,v.
+beginning,en,A1,,n.
+behind,en,A1,,"prep., adv."
+believe,en,A1,,v.
+below,en,A1,,"adv., prep."
+best,en,A1,,adj.
+better,en,A1,,adj.
+between,en,A1,,prep.
+bicycle,en,A1,,n.
+big,en,A1,,adj.
+bike,en,A1,,n.
+bill,en,A1,,n.
+bird,en,A1,,n.
+birthday,en,A1,,n.
+black,en,A1,,"adj., n."
+blog,en,A1,,n.
+blonde,en,A1,,adj.
+blue,en,A1,,"adj., n."
+boat,en,A1,,n.
+body,en,A1,,n.
+book,en,A1,,n.
+boot,en,A1,,n.
+bored,en,A1,,adj.
+boring,en,A1,,adj.
+born,en,A1,,v.
+both,en,A1,,det./pron.
+bottle,en,A1,,n.
+box,en,A1,,n.
+boy,en,A1,,n.
+boyfriend,en,A1,,n.
+bread,en,A1,,n.
+break,en,A1,,"v., n."
+breakfast,en,A1,,n.
+bring,en,A1,,v.
+brother,en,A1,,n.
+brown,en,A1,,"adj., n."
+build,en,A1,,v.
+building,en,A1,,n.
+bus,en,A1,,n.
+business,en,A1,,n.
+busy,en,A1,,adj.
+but,en,A1,,conj.
+butter,en,A1,,n.
+buy,en,A1,,v.
+by,en,A1,,prep.
+bye,en,A1,,exclam.
+cafe,en,A1,,n.
+cake,en,A1,,n.
+call,en,A1,,"v., n."
+camera,en,A1,,n.
+can1,en,A1,,modal v.
+cannot,en,A1,,modal v.
+capital,en,A1,,"n., adj."
+car,en,A1,,n.
+card,en,A1,,n.
+career,en,A1,,n.
+carrot,en,A1,,n.
+carry,en,A1,,v.
+cat,en,A1,,n.
+CD,en,A1,,n.
+cent,en,A1,,n.
+centre,en,A1,,n.
+century,en,A1,,n.
+chair,en,A1,,n.
+change,en,A1,,"v., n."
+chart,en,A1,,n.
+cheap,en,A1,,adj.
+check,en,A1,,v.
+cheese,en,A1,,n.
+chicken,en,A1,,n.
+child,en,A1,,n.
+chocolate,en,A1,,n.
+choose,en,A1,,v.
+cinema,en,A1,,n.
+city,en,A1,,n.
+class,en,A1,,n.
+classroom,en,A1,,n.
+clean,en,A1,,"adj., v."
+climb,en,A1,,v.
+clock,en,A1,,n.
+close1,en,A1,,v.
+clothes,en,A1,,n.
+club,en,A1,,n.
+coat,en,A1,,n.
+coffee,en,A1,,n.
+cold,en,A1,,"adj., n."
+college,en,A1,,n.
+colour,en,A1,,n.
+come,en,A1,,v.
+common,en,A1,,adj.
+company,en,A1,,n.
+compare,en,A1,,v.
+complete,en,A1,,"adj., v."
+computer,en,A1,,n.
+concert,en,A1,,n.
+conversation,en,A1,,n.
+cook,en,A1,,v.
+cooking,en,A1,,n.
+cool,en,A1,,adj.
+correct,en,A1,,"adj., v."
+cost,en,A1,,"n., v."
+could,en,A1,,modal v.
+country,en,A1,,n.
+course,en,A1,,n.
+cousin,en,A1,,n.
+cow,en,A1,,n.
+cream,en,A1,,n.
+create,en,A1,,v.
+culture,en,A1,,n.
+cup,en,A1,,n.
+customer,en,A1,,n.
+cut,en,A1,,v.
+dad,en,A1,,n.
+dance,en,A1,,"n., v."
+dancer,en,A1,,n.
+dancing,en,A1,,n.
+dangerous,en,A1,,adj.
+dark,en,A1,,adj.
+date,en,A1,,n.
+daughter,en,A1,,n.
+day,en,A1,,n.
+dear,en,A1,,adj.
+December,en,A1,,n.
+decide,en,A1,,v.
+delicious,en,A1,,adj.
+describe,en,A1,,v.
+description,en,A1,,n.
+design,en,A1,,"n., v."
+desk,en,A1,,n.
+detail,en,A1,,n.
+dialogue,en,A1,,n.
+dictionary,en,A1,,n.
+die,en,A1,,v.
+diet,en,A1,,n.
+difference,en,A1,,n.
+different,en,A1,,adj.
+difficult,en,A1,,adj.
+dinner,en,A1,,n.
+dirty,en,A1,,adj.
+discuss,en,A1,,v.
+dish,en,A1,,n.
+do1,en,A1,,"v., auxiliary v."
+doctor,en,A1,,n.
+dog,en,A1,,n.
+dollar,en,A1,,n.
+door,en,A1,,n.
+down,en,A1,,"adv., prep."
+downstairs,en,A1,,adv.
+draw,en,A1,,v.
+dress,en,A1,,"n., v."
+drink,en,A1,,"n., v."
+drive,en,A1,,v.
+driver,en,A1,,n.
+during,en,A1,,prep.
+DVD,en,A1,,n.
+each,en,A1,,det./pron./adv.
+ear,en,A1,,n.
+early,en,A1,,"adj., adv."
+east,en,A1,,"n., adj., adv."
+easy,en,A1,,adj.
+eat,en,A1,,v.
+egg,en,A1,,n.
+eight,en,A1,,number
+eighteen,en,A1,,number
+eighty,en,A1,,number
+elephant,en,A1,,n.
+eleven,en,A1,,number
+else,en,A1,,adv.
+email,en,A1,,"n., v."
+end,en,A1,,"n., v."
+enjoy,en,A1,,v.
+enough,en,A1,,"det., pron., adv."
+euro,en,A1,,n.
+even,en,A1,,adv.
+evening,en,A1,,n.
+event,en,A1,,n.
+ever,en,A1,,adv.
+every,en,A1,,det.
+everybody,en,A1,,pron.
+everyone,en,A1,,pron.
+everything,en,A1,,pron.
+exam,en,A1,,n.
+example,en,A1,,n.
+excited,en,A1,,adj.
+exciting,en,A1,,adj.
+exercise,en,A1,,"n., v."
+expensive,en,A1,,adj.
+explain,en,A1,,v.
+extra,en,A1,,adj.
+eye,en,A1,,n.
+face,en,A1,,n.
+fact,en,A1,,n.
+fall,en,A1,,v.
+false,en,A1,,adj.
+family,en,A1,,"n., adj."
+famous,en,A1,,adj.
+fantastic,en,A1,,adj.
+far,en,A1,,adv.
+farm,en,A1,,n.
+farmer,en,A1,,n.
+fast,en,A1,,"adj., adv."
+fat,en,A1,,adj.
+father,en,A1,,n.
+favourite,en,A1,,"adj., n."
+February,en,A1,,n.
+feel,en,A1,,v.
+feeling,en,A1,,n.
+festival,en,A1,,n.
+few,en,A1,,"det./adj., pron."
+fifteen,en,A1,,number
+fifth,en,A1,,number
+fifty,en,A1,,number
+fill,en,A1,,v.
+film,en,A1,,n.
+final,en,A1,,adj.
+find,en,A1,,v.
+fine,en,A1,,adj.
+finish,en,A1,,v.
+fire,en,A1,,n.
+first,en,A1,,"det./number, adv."
+fish,en,A1,,n.
+five,en,A1,,number
+flat,en,A1,,n.
+flight,en,A1,,n.
+floor,en,A1,,n.
+flower,en,A1,,n.
+fly,en,A1,,v.
+follow,en,A1,,v.
+food,en,A1,,n.
+foot,en,A1,,n.
+football,en,A1,,n.
+for,en,A1,,prep.
+forget,en,A1,,v.
+form,en,A1,,"n., v."
+forty,en,A1,,number
+four,en,A1,,number
+fourteen,en,A1,,number
+fourth,en,A1,,number
+free,en,A1,,adj.
+Friday,en,A1,,n.
+friend,en,A1,,n.
+friendly,en,A1,,adj.
+from,en,A1,,prep.
+front,en,A1,,"n., adj."
+fruit,en,A1,,n.
+full,en,A1,,adj.
+fun,en,A1,,n.
+funny,en,A1,,adj.
+future,en,A1,,n.
+game,en,A1,,n.
+garden,en,A1,,n.
+geography,en,A1,,n.
+get,en,A1,,v.
+girl,en,A1,,n.
+girlfriend,en,A1,,n.
+give,en,A1,,v.
+glass,en,A1,,n.
+go,en,A1,,v.
+good,en,A1,,adj.
+goodbye,en,A1,,exclam./n.
+grandfather,en,A1,,n.
+grandmother,en,A1,,n.
+grandparent,en,A1,,n.
+great,en,A1,,adj.
+green,en,A1,,"adj., n."
+grey,en,A1,,"adj., n."
+group,en,A1,,n.
+grow,en,A1,,v.
+guess,en,A1,,"v., n."
+guitar,en,A1,,n.
+gym,en,A1,,n.
+hair,en,A1,,n.
+half,en,A1,,"n., det./pron."
+hand,en,A1,,n.
+happen,en,A1,,v.
+happy,en,A1,,adj.
+hard,en,A1,,"adj., adv."
+hat,en,A1,,n.
+hate,en,A1,,v.
+have,en,A1,,v.
+have to,en,A1,,modal v.
+he,en,A1,,pron.
+head,en,A1,,n.
+health,en,A1,,n.
+healthy,en,A1,,adj.
+hear,en,A1,,v.
+hello,en,A1,,exclam./n.
+help,en,A1,,"v., n."
+her,en,A1,,"pron., det."
+here,en,A1,,adv.
+hey,en,A1,,exclam.
+hi,en,A1,,exclam.
+high,en,A1,,adj.
+him,en,A1,,pron.
+his,en,A1,,det.
+history,en,A1,,n.
+hobby,en,A1,,n.
+holiday,en,A1,,n.
+home,en,A1,,"n., adv."
+homework,en,A1,,n.
+hope,en,A1,,v.
+horse,en,A1,,n.
+hospital,en,A1,,n.
+hot,en,A1,,adj.
+hotel,en,A1,,n.
+hour,en,A1,,n.
+house,en,A1,,n.
+how,en,A1,,adv.
+however,en,A1,,adv.
+hundred,en,A1,,number
+hungry,en,A1,,adj.
+husband,en,A1,,n.
+I,en,A1,,pron.
+ice,en,A1,,n.
+ice cream,en,A1,,n.
+idea,en,A1,,n.
+if,en,A1,,conj.
+imagine,en,A1,,v.
+important,en,A1,,adj.
+improve,en,A1,,v.
+in,en,A1,,"prep., adv."
+include,en,A1,,v.
+information,en,A1,,n.
+interest,en,A1,,"n., v."
+interested,en,A1,,adj.
+interesting,en,A1,,adj.
+internet,en,A1,,n.
+interview,en,A1,,"n., v."
+into,en,A1,,prep.
+introduce,en,A1,,v.
+island,en,A1,,n.
+it,en,A1,,pron.
+its,en,A1,,det.
+jacket,en,A1,,n.
+January,en,A1,,n.
+jeans,en,A1,,n.
+job,en,A1,,n.
+join,en,A1,,v.
+journey,en,A1,,n.
+juice,en,A1,,n.
+July,en,A1,,n.
+June,en,A1,,n.
+just,en,A1,,adv.
+keep,en,A1,,v.
+key,en,A1,,"n., adj."
+kilometre,en,A1,,n.
+kind,en,A1,,(type) n.
+kitchen,en,A1,,n.
+know,en,A1,,v.
+land,en,A1,,n.
+language,en,A1,,n.
+large,en,A1,,adj.
+last1,en,A1,,(final) det.
+late,en,A1,,"adj., adv."
+later,en,A1,,adv.
+laugh,en,A1,,"v., n."
+learn,en,A1,,v.
+leave,en,A1,,v.
+left,en,A1,,"adj., adv., n."
+leg,en,A1,,n.
+lesson,en,A1,,n.
+let,en,A1,,v.
+letter,en,A1,,n.
+library,en,A1,,n.
+lie1,en,A1,,v.
+life,en,A1,,n.
+light,en,A1,,"(from the sun/a lamp) n.,"
+like,en,A1,,(similar) prep.
+like,en,A1,,(find sb/sth pleasant) v.
+line,en,A1,,n.
+lion,en,A1,,n.
+list,en,A1,,"n., v."
+listen,en,A1,,v.
+little,en,A1,,"adj., det./pron."
+live1,en,A1,,v.
+local,en,A1,,adj.
+long1,en,A1,,"adj., adv."
+look,en,A1,,v.
+lose,en,A1,,v.
+lot,en,A1,,"pron., det., adv."
+love,en,A1,,"n., v."
+lunch,en,A1,,n.
+machine,en,A1,,n.
+magazine,en,A1,,n.
+main,en,A1,,adj.
+make,en,A1,,v.
+man,en,A1,,n.
+many,en,A1,,det./pron.
+map,en,A1,,n.
+March,en,A1,,n.
+market,en,A1,,n.
+married,en,A1,,adj.
+match,en,A1,,"(contest/correspond) n., v."
+May,en,A1,,n.
+maybe,en,A1,,adv.
+me,en,A1,,pron.
+meal,en,A1,,n.
+mean,en,A1,,v.
+meaning,en,A1,,n.
+meat,en,A1,,n.
+meet,en,A1,,v.
+meeting,en,A1,,n.
+member,en,A1,,n.
+menu,en,A1,,n.
+message,en,A1,,n.
+metre,en,A1,,n.
+midnight,en,A1,,n.
+mile,en,A1,,n.
+milk,en,A1,,n.
+million,en,A1,,number
+minute1,en,A1,,n.
+miss,en,A1,,v.
+mistake,en,A1,,n.
+model,en,A1,,n.
+modern,en,A1,,adj.
+moment,en,A1,,n.
+Monday,en,A1,,n.
+money,en,A1,,n.
+month,en,A1,,n.
+more,en,A1,,"det./pron., adv."
+morning,en,A1,,n.
+most,en,A1,,"det./pron., adv."
+mother,en,A1,,n.
+mountain,en,A1,,n.
+mouse,en,A1,,n.
+mouth,en,A1,,n.
+move,en,A1,,v.
+movie,en,A1,,n.
+much,en,A1,,"det./pron., adv."
+mum,en,A1,,n.
+museum,en,A1,,n.
+music,en,A1,,n.
+must,en,A1,,modal v.
+my,en,A1,,det.
+name,en,A1,,"n., v."
+natural,en,A1,,adj.
+near,en,A1,,"prep., adj., adv."
+need,en,A1,,v.
+negative,en,A1,,adj.
+neighbour,en,A1,,n.
+never,en,A1,,adv.
+new,en,A1,,adj.
+news,en,A1,,n.
+newspaper,en,A1,,n.
+next,en,A1,,"adj., adv."
+next to,en,A1,,prep.
+nice,en,A1,,adj.
+night,en,A1,,n.
+nine,en,A1,,number
+nineteen,en,A1,,number
+ninety,en,A1,,number
+no,en,A1,,"exclam., det."
+no one,en,A1,,pron.
+nobody,en,A1,,pron.
+north,en,A1,,"n., adj., adv."
+nose,en,A1,,n.
+not,en,A1,,adv.
+note,en,A1,,n.
+nothing,en,A1,,pron.
+November,en,A1,,n.
+now,en,A1,,adv.
+number,en,A1,,n.
+nurse,en,A1,,n.
+object,en,A1,,n.
+o’clock,en,A1,,adv.
+October,en,A1,,n.
+of,en,A1,,prep.
+off,en,A1,,"adv., prep."
+office,en,A1,,n.
+often,en,A1,,adv.
+oh,en,A1,,exclam.
+OK,en,A1,,"exclam., adj./adv."
+old,en,A1,,adj.
+on,en,A1,,"prep., adv."
+once,en,A1,,adv.
+one,en,A1,,"number/det., pron."
+onion,en,A1,,n.
+online,en,A1,,"adj., adv."
+only,en,A1,,"adj., adv."
+open,en,A1,,"adj., v."
+opinion,en,A1,,n.
+opposite,en,A1,,"adj., n., prep., adv."
+or,en,A1,,conj.
+orange,en,A1,,"n., adj."
+order,en,A1,,"n., v."
+other,en,A1,,adj./pron.
+our,en,A1,,det.
+out,en,A1,,adv./prep.
+outside,en,A1,,adv.
+over,en,A1,,"prep., adv."
+own,en,A1,,adj./pron.
+page,en,A1,,n.
+paint,en,A1,,"v., n."
+painting,en,A1,,n.
+pair,en,A1,,n.
+paper,en,A1,,n.
+paragraph,en,A1,,n.
+parent,en,A1,,n.
+park,en,A1,,"n., v."
+part,en,A1,,n.
+partner,en,A1,,n.
+party,en,A1,,n.
+passport,en,A1,,n.
+past,en,A1,,"adj., n., prep."
+pay,en,A1,,v.
+pen,en,A1,,n.
+pencil,en,A1,,n.
+people,en,A1,,n.
+pepper,en,A1,,n.
+perfect,en,A1,,adj.
+period,en,A1,,n.
+person,en,A1,,n.
+personal,en,A1,,adj.
+phone,en,A1,,"n., v."
+photo,en,A1,,n.
+photograph,en,A1,,n.
+phrase,en,A1,,n.
+piano,en,A1,,n.
+picture,en,A1,,n.
+piece,en,A1,,n.
+pig,en,A1,,n.
+pink,en,A1,,"adj., n."
+place,en,A1,,n.
+plan,en,A1,,"n., v."
+plane,en,A1,,n.
+plant,en,A1,,n.
+play,en,A1,,"v., n."
+player,en,A1,,n.
+please,en,A1,,exclam.
+point,en,A1,,n.
+police,en,A1,,n.
+policeman,en,A1,,n.
+pool,en,A1,,n.
+poor,en,A1,,adj.
+popular,en,A1,,adj.
+positive,en,A1,,adj.
+possible,en,A1,,adj.
+post,en,A1,,"n., v."
+potato,en,A1,,n.
+pound,en,A1,,n.
+practice,en,A1,,n.
+practise,en,A1,,v.
+prefer,en,A1,,v.
+prepare,en,A1,,v.
+present,en,A1,,"adj., n."
+pretty,en,A1,,"adj., adv."
+price,en,A1,,n.
+probably,en,A1,,adv.
+problem,en,A1,,n.
+product,en,A1,,n.
+programme,en,A1,,n.
+project,en,A1,,n.
+purple,en,A1,,"adj., n."
+put,en,A1,,v.
+quarter,en,A1,,n.
+question,en,A1,,n.
+quick,en,A1,,adj.
+quickly,en,A1,,adv.
+quiet,en,A1,,adj.
+quite,en,A1,,adv.
+radio,en,A1,,n.
+rain,en,A1,,"n., v."
+read,en,A1,,v.
+reader,en,A1,,n.
+reading,en,A1,,n.
+ready,en,A1,,adj.
+real,en,A1,,adj.
+really,en,A1,,adv.
+reason,en,A1,,n.
+red,en,A1,,"adj., n."
+relax,en,A1,,v.
+remember,en,A1,,v.
+repeat,en,A1,,v.
+report,en,A1,,n.
+restaurant,en,A1,,n.
+result,en,A1,,n.
+return,en,A1,,"v., n."
+rice,en,A1,,n.
+rich,en,A1,,adj.
+ride,en,A1,,v.
+right,en,A1,,"adj., adv., n."
+river,en,A1,,n.
+road,en,A1,,n.
+room,en,A1,,n.
+routine,en,A1,,n.
+rule,en,A1,,n.
+run,en,A1,,v.
+sad,en,A1,,adj.
+salad,en,A1,,n.
+salt,en,A1,,n.
+same,en,A1,,"adj., pron., adv."
+sandwich,en,A1,,n.
+Saturday,en,A1,,n.
+say,en,A1,,v.
+school,en,A1,,n.
+science,en,A1,,n.
+scientist,en,A1,,n.
+sea,en,A1,,n.
+second1,en,A1,,(next after the first) det./
+second1,en,A1,,(unit of time) n.
+section,en,A1,,n.
+see,en,A1,,v.
+sell,en,A1,,v.
+send,en,A1,,v.
+sentence,en,A1,,n.
+September,en,A1,,n.
+seven,en,A1,,number
+seventeen,en,A1,,number
+seventy,en,A1,,number
+share,en,A1,,v.
+she,en,A1,,pron.
+sheep,en,A1,,n.
+shirt,en,A1,,n.
+shoe,en,A1,,n.
+shop,en,A1,,"n., v."
+shopping,en,A1,,n.
+short,en,A1,,adj.
+should,en,A1,,modal v.
+show,en,A1,,"v., n."
+shower,en,A1,,n.
+sick,en,A1,,adj.
+similar,en,A1,,adj.
+sing,en,A1,,v.
+singer,en,A1,,n.
+sister,en,A1,,n.
+sit,en,A1,,v.
+situation,en,A1,,n.
+six,en,A1,,number
+sixteen,en,A1,,number
+sixty,en,A1,,number
+skill,en,A1,,n.
+skirt,en,A1,,n.
+sleep,en,A1,,v.
+slow,en,A1,,adj.
+small,en,A1,,adj.
+snake,en,A1,,n.
+snow,en,A1,,"n., v."
+so,en,A1,,"adv., conj."
+some,en,A1,,"det., pron."
+somebody,en,A1,,pron.
+someone,en,A1,,pron.
+something,en,A1,,pron.
+sometimes,en,A1,,adv.
+son,en,A1,,n.
+song,en,A1,,n.
+soon,en,A1,,adv.
+sorry,en,A1,,"adj., exclam."
+sound,en,A1,,"n., v."
+soup,en,A1,,n.
+south,en,A1,,"n., adj., adv."
+space,en,A1,,n.
+speak,en,A1,,v.
+special,en,A1,,adj.
+spell,en,A1,,v.
+spelling,en,A1,,n.
+spend,en,A1,,v.
+sport,en,A1,,n.
+spring,en,A1,,n.
+stand,en,A1,,v.
+star,en,A1,,n.
+start,en,A1,,v.
+statement,en,A1,,n.
+station,en,A1,,n.
+stay,en,A1,,v.
+still,en,A1,,adv.
+stop,en,A1,,"v., n."
+story,en,A1,,n.
+street,en,A1,,n.
+strong,en,A1,,adj.
+student,en,A1,,n.
+study,en,A1,,"n., v."
+style,en,A1,,n.
+subject,en,A1,,n.
+success,en,A1,,n.
+sugar,en,A1,,n.
+summer,en,A1,,n.
+sun,en,A1,,n.
+Sunday,en,A1,,n.
+supermarket,en,A1,,n.
+sure,en,A1,,adj.
+sweater,en,A1,,n.
+swim,en,A1,,v.
+swimming,en,A1,,n.
+table,en,A1,,n.
+take,en,A1,,v.
+talk,en,A1,,v.
+tall,en,A1,,adj.
+taxi,en,A1,,n.
+tea,en,A1,,n.
+teach,en,A1,,v.
+teacher,en,A1,,n.
+team,en,A1,,n.
+teenager,en,A1,,n.
+telephone,en,A1,,"n., v."
+television,en,A1,,n.
+tell,en,A1,,v.
+ten,en,A1,,number
+tennis,en,A1,,n.
+terrible,en,A1,,adj.
+test,en,A1,,"n., v."
+text,en,A1,,n.
+than,en,A1,,conj.
+thank,en,A1,,v.
+thanks,en,A1,,"exclam., n."
+that,en,A1,,"det., pron., conj."
+the,en,A1,,definite article
+theatre,en,A1,,n.
+their,en,A1,,det.
+them,en,A1,,pron.
+then,en,A1,,adv.
+there,en,A1,,adv.
+they,en,A1,,pron.
+thing,en,A1,,n.
+think,en,A1,,v.
+third,en,A1,,number
+thirsty,en,A1,,adj.
+thirteen,en,A1,,number
+thirty,en,A1,,number
+this,en,A1,,det./pron.
+thousand,en,A1,,number
+three,en,A1,,number
+through,en,A1,,"prep., adv."
+Thursday,en,A1,,n.
+ticket,en,A1,,n.
+time,en,A1,,n.
+tired,en,A1,,adj.
+title,en,A1,,n.
+to,en,A1,,"prep., infinitive marker"
+today,en,A1,,"adv., n."
+together,en,A1,,adv.
+toilet,en,A1,,n.
+tomato,en,A1,,n.
+tomorrow,en,A1,,"adv., n."
+tonight,en,A1,,"adv., n."
+too,en,A1,,adv.
+tooth,en,A1,,n.
+topic,en,A1,,n.
+tourist,en,A1,,n.
+town,en,A1,,n.
+traffic,en,A1,,n.
+train,en,A1,,n.
+travel,en,A1,,"v., n."
+tree,en,A1,,n.
+trip,en,A1,,n.
+trousers,en,A1,,n.
+true,en,A1,,adj.
+try,en,A1,,v.
+T-shirt,en,A1,,n.
+Tuesday,en,A1,,n.
+turn,en,A1,,"v., n."
+TV,en,A1,,n.
+twelve,en,A1,,number
+twenty,en,A1,,number
+twice,en,A1,,adv.
+two,en,A1,,number
+type,en,A1,,n.
+umbrella,en,A1,,n.
+uncle,en,A1,,n.
+under,en,A1,,"prep., adv."
+understand,en,A1,,v.
+university,en,A1,,n.
+until,en,A1,,conj./prep.
+up,en,A1,,"adv., prep."
+upstairs,en,A1,,adv.
+us,en,A1,,pron.
+use,en,A1,,v.
+useful,en,A1,,adj.
+usually,en,A1,,adv.
+vacation,en,A1,,n.
+vegetable,en,A1,,n.
+very,en,A1,,adv.
+video,en,A1,,n.
+village,en,A1,,n.
+visit,en,A1,,"v., n."
+visitor,en,A1,,n.
+wait,en,A1,,v.
+waiter,en,A1,,n.
+wake,en,A1,,v.
+walk,en,A1,,"v., n."
+wall,en,A1,,n.
+want,en,A1,,v.
+warm,en,A1,,adj.
+wash,en,A1,,v.
+watch,en,A1,,"v., n."
+water,en,A1,,n.
+way,en,A1,,n.
+we,en,A1,,pron.
+wear,en,A1,,v.
+weather,en,A1,,n.
+website,en,A1,,n.
+Wednesday,en,A1,,n.
+week,en,A1,,n.
+weekend,en,A1,,n.
+welcome,en,A1,,"exclam., v., adj."
+well,en,A1,,"adv., adj., exclam."
+west,en,A1,,"n., adj., adv."
+what,en,A1,,pron./det.
+when,en,A1,,"adv., pron., conj."
+where,en,A1,,"adv., conj."
+which,en,A1,,pron./det.
+white,en,A1,,"adj., n."
+who,en,A1,,pron.
+why,en,A1,,adv.
+wife,en,A1,,n.
+will,en,A1,,modal v.
+win,en,A1,,v.
+window,en,A1,,n.
+wine,en,A1,,n.
+winter,en,A1,,n.
+with,en,A1,,prep.
+without,en,A1,,prep.
+woman,en,A1,,n.
+wonderful,en,A1,,adj.
+word,en,A1,,n.
+work,en,A1,,"v., n."
+worker,en,A1,,n.
+world,en,A1,,n.
+would,en,A1,,modal v.
+write,en,A1,,v.
+writer,en,A1,,n.
+writing,en,A1,,n.
+wrong,en,A1,,adj.
+yeah,en,A1,,exclam.
+year,en,A1,,n.
+yellow,en,A1,,"adj., n."
+yes,en,A1,,exclam.
+yesterday,en,A1,,"adv., n."
+you,en,A1,,pron.
+young,en,A1,,adj.
+your,en,A1,,det.
+yourself,en,A1,,pron.
+ability,en,A2,,n.
+able,en,A2,,adj.
+abroad,en,A2,,adv.
+accept,en,A2,,v.
+accident,en,A2,,n.
+according to,en,A2,,prep.
+achieve,en,A2,,v.
+act,en,A2,,v.
+active,en,A2,,adj.
+actually,en,A2,,adv.
+adult,en,A2,,adj.
+advantage,en,A2,,n.
+adventure,en,A2,,n.
+advertise,en,A2,,v.
+advertisement,en,A2,,n.
+advertising,en,A2,,n.
+affect,en,A2,,v.
+after,en,A2,,"conj., adv."
+against,en,A2,,prep.
+ah,en,A2,,exclam.
+airline,en,A2,,n.
+alive,en,A2,,adj.
+all,en,A2,,adv.
+all right,en,A2,,"adj./adv., exclam."
+allow,en,A2,,v.
+almost,en,A2,,adv.
+alone,en,A2,,adj./adv.
+along,en,A2,,"prep., adv."
+already,en,A2,,adv.
+alternative,en,A2,,n.
+although,en,A2,,conj.
+among,en,A2,,prep.
+amount,en,A2,,n.
+ancient,en,A2,,adj.
+ankle,en,A2,,n.
+any,en,A2,,adv.
+anybody,en,A2,,pron.
+any more,en,A2,,adv.
+anyway,en,A2,,adv.
+anywhere,en,A2,,"adv., pron."
+app,en,A2,,n.
+appear,en,A2,,v.
+appearance,en,A2,,n.
+apply,en,A2,,v.
+architect,en,A2,,n.
+architecture,en,A2,,n.
+argue,en,A2,,v.
+argument,en,A2,,n.
+army,en,A2,,n.
+arrange,en,A2,,v.
+arrangement,en,A2,,n.
+as,en,A2,,"adv., conj."
+asleep,en,A2,,adj.
+assistant,en,A2,,"n., adj."
+athlete,en,A2,,n.
+attack,en,A2,,"n., v."
+attend,en,A2,,v.
+attention,en,A2,,"n., exclam."
+attractive,en,A2,,adj.
+audience,en,A2,,n.
+author,en,A2,,n.
+available,en,A2,,adj.
+average,en,A2,,"adj., n."
+avoid,en,A2,,v.
+award,en,A2,,n.
+awful,en,A2,,adj.
+back,en,A2,,adj.
+background,en,A2,,n.
+badly,en,A2,,adv.
+bar,en,A2,,n.
+baseball,en,A2,,n.
+based,en,A2,,adj.
+basketball,en,A2,,n.
+bean,en,A2,,n.
+bear,en,A2,,(animal) n.
+beat,en,A2,,v.
+beef,en,A2,,n.
+before,en,A2,,"conj., adv."
+behave,en,A2,,v.
+behaviour,en,A2,,n.
+belong,en,A2,,v.
+belt,en,A2,,n.
+benefit,en,A2,,n.
+best,en,A2,,"adv., n."
+better,en,A2,,adv.
+between,en,A2,,adv.
+billion,en,A2,,number
+bin,en,A2,,n.
+biology,en,A2,,n.
+birth,en,A2,,n.
+biscuit,en,A2,,n.
+bit,en,A2,,n.
+blank,en,A2,,"adj., n."
+blood,en,A2,,n.
+blow,en,A2,,v.
+board,en,A2,,n.
+boil,en,A2,,v.
+bone,en,A2,,n.
+book,en,A2,,v.
+borrow,en,A2,,v.
+boss,en,A2,,n.
+bottom,en,A2,,"n., adj."
+bowl,en,A2,,n.
+brain,en,A2,,n.
+bridge,en,A2,,n.
+bright,en,A2,,adj.
+brilliant,en,A2,,adj.
+broken,en,A2,,adj.
+brush,en,A2,,"v., n."
+burn,en,A2,,v.
+businessman,en,A2,,n.
+button,en,A2,,n.
+camp,en,A2,,"n., v."
+camping,en,A2,,n.
+can2,en,A2,,n.
+care,en,A2,,"n., v."
+careful,en,A2,,adj.
+carefully,en,A2,,adv.
+carpet,en,A2,,n.
+cartoon,en,A2,,n.
+case,en,A2,,n.
+cash,en,A2,,n.
+castle,en,A2,,n.
+catch,en,A2,,v.
+cause,en,A2,,"n., v."
+celebrate,en,A2,,v.
+celebrity,en,A2,,n.
+certain,en,A2,,adj.
+certainly,en,A2,,adv.
+chance,en,A2,,n.
+character,en,A2,,n.
+charity,en,A2,,n.
+chat,en,A2,,"v., n."
+check,en,A2,,n.
+chef,en,A2,,n.
+chemistry,en,A2,,n.
+chip,en,A2,,n.
+choice,en,A2,,n.
+church,en,A2,,n.
+cigarette,en,A2,,n.
+circle,en,A2,,"n., v."
+classical,en,A2,,adj.
+clear,en,A2,,adj.
+clearly,en,A2,,adv.
+clever,en,A2,,adj.
+climate,en,A2,,n.
+close2,en,A2,,adj.
+closed,en,A2,,adj.
+clothing,en,A2,,n.
+cloud,en,A2,,n.
+coach,en,A2,,n.
+coast,en,A2,,n.
+code,en,A2,,n.
+colleague,en,A2,,n.
+collect,en,A2,,v.
+column,en,A2,,n.
+comedy,en,A2,,n.
+comfortable,en,A2,,adj.
+comment,en,A2,,n.
+communicate,en,A2,,v.
+community,en,A2,,n.
+compete,en,A2,,v.
+competition,en,A2,,n.
+complain,en,A2,,v.
+completely,en,A2,,adv.
+condition,en,A2,,n.
+conference,en,A2,,n.
+connect,en,A2,,v.
+connected,en,A2,,adj.
+consider,en,A2,,v.
+contain,en,A2,,v.
+context,en,A2,,n.
+continent,en,A2,,n.
+continue,en,A2,,v.
+control,en,A2,,"n., v."
+cook,en,A2,,n.
+cooker,en,A2,,n.
+copy,en,A2,,"n., v."
+corner,en,A2,,n.
+correctly,en,A2,,adv.
+count,en,A2,,v.
+couple,en,A2,,n.
+cover,en,A2,,v.
+crazy,en,A2,,adj.
+creative,en,A2,,adj.
+credit,en,A2,,n.
+crime,en,A2,,n.
+criminal,en,A2,,n.
+cross,en,A2,,"v., n."
+crowd,en,A2,,n.
+crowded,en,A2,,adj.
+cry,en,A2,,v.
+cupboard,en,A2,,n.
+curly,en,A2,,adj.
+cycle,en,A2,,"n., v."
+daily,en,A2,,adj.
+danger,en,A2,,n.
+dark,en,A2,,n.
+data,en,A2,,n.
+dead,en,A2,,adj.
+deal,en,A2,,v.
+dear,en,A2,,exclam.
+death,en,A2,,n.
+decision,en,A2,,n.
+deep,en,A2,,adj.
+definitely,en,A2,,adv.
+degree,en,A2,,n.
+dentist,en,A2,,n.
+department,en,A2,,n.
+depend,en,A2,,v.
+desert,en,A2,,n.
+designer,en,A2,,n.
+destroy,en,A2,,v.
+detective,en,A2,,n.
+develop,en,A2,,v.
+device,en,A2,,n.
+diary,en,A2,,n.
+differently,en,A2,,adv.
+digital,en,A2,,adj.
+direct,en,A2,,adj.
+direction,en,A2,,n.
+director,en,A2,,n.
+disagree,en,A2,,v.
+disappear,en,A2,,v.
+disaster,en,A2,,n.
+discover,en,A2,,v.
+discovery,en,A2,,n.
+discussion,en,A2,,n.
+disease,en,A2,,n.
+distance,en,A2,,n.
+divorced,en,A2,,adj.
+document,en,A2,,n.
+double,en,A2,,"adj., det., pron., v."
+download,en,A2,,"v., n."
+downstairs,en,A2,,adj.
+drama,en,A2,,n.
+drawing,en,A2,,n.
+dream,en,A2,,"n., v."
+drive,en,A2,,n.
+driving,en,A2,,n.
+drop,en,A2,,v.
+drug,en,A2,,n.
+dry,en,A2,,"adj., v."
+earn,en,A2,,v.
+earth,en,A2,,n.
+easily,en,A2,,adv.
+education,en,A2,,n.
+effect,en,A2,,n.
+either,en,A2,,"det./pron., adv."
+electric,en,A2,,adj.
+electrical,en,A2,,adj.
+electricity,en,A2,,n.
+electronic,en,A2,,adj.
+employ,en,A2,,v.
+employee,en,A2,,n.
+employer,en,A2,,n.
+empty,en,A2,,adj.
+ending,en,A2,,n.
+energy,en,A2,,n.
+engine,en,A2,,n.
+engineer,en,A2,,n.
+enormous,en,A2,,adj.
+enter,en,A2,,v.
+environment,en,A2,,n.
+equipment,en,A2,,n.
+error,en,A2,,n.
+especially,en,A2,,adv.
+essay,en,A2,,n.
+everyday,en,A2,,adj.
+everywhere,en,A2,,adv.
+evidence,en,A2,,n.
+exact,en,A2,,adj.
+exactly,en,A2,,adv.
+excellent,en,A2,,adj.
+except,en,A2,,prep.
+exist,en,A2,,v.
+expect,en,A2,,v.
+experience,en,A2,,n.
+experiment,en,A2,,n.
+expert,en,A2,,"n.,adj."
+explanation,en,A2,,n.
+express,en,A2,,v.
+expression,en,A2,,n.
+extreme,en,A2,,adj.
+extremely,en,A2,,adv.
+factor,en,A2,,n.
+factory,en,A2,,n.
+fail,en,A2,,v.
+fair,en,A2,,adj.
+fall,en,A2,,n.
+fan,en,A2,,n.
+farm,en,A2,,v.
+farming,en,A2,,n.
+fashion,en,A2,,n.
+fat,en,A2,,n.
+fear,en,A2,,n.
+feature,en,A2,,n.
+feed,en,A2,,v.
+female,en,A2,,"adj., n."
+fiction,en,A2,,n.
+field,en,A2,,n.
+fight,en,A2,,"v., n."
+figure,en,A2,,n.
+film,en,A2,,v.
+final,en,A2,,n.
+finally,en,A2,,adv.
+finger,en,A2,,n.
+finish,en,A2,,n.
+first,en,A2,,n.
+firstly,en,A2,,adv.
+fish,en,A2,,v.
+fishing,en,A2,,n.
+fit,en,A2,,"v., adj."
+fix,en,A2,,v.
+flat,en,A2,,adj.
+flu,en,A2,,n.
+fly,en,A2,,n.
+flying,en,A2,,"n., adj."
+focus,en,A2,,"v., n."
+following,en,A2,,adj.
+foreign,en,A2,,adj.
+forest,en,A2,,n.
+fork,en,A2,,n.
+formal,en,A2,,adj.
+fortunately,en,A2,,adv.
+forward,en,A2,,adv.
+free,en,A2,,adv.
+fresh,en,A2,,adj.
+fridge,en,A2,,n.
+frog,en,A2,,n.
+fun,en,A2,,adj.
+furniture,en,A2,,n.
+further,en,A2,,adj.
+future,en,A2,,adj.
+gallery,en,A2,,n.
+gap,en,A2,,n.
+gas,en,A2,,n.
+gate,en,A2,,n.
+general,en,A2,,adj.
+gift,en,A2,,n.
+goal,en,A2,,n.
+god,en,A2,,n.
+gold,en,A2,,"n., adj."
+golf,en,A2,,n.
+good,en,A2,,n.
+government,en,A2,,n.
+grass,en,A2,,n.
+greet,en,A2,,v.
+ground,en,A2,,n.
+guest,en,A2,,n.
+guide,en,A2,,"n., v."
+gun,en,A2,,n.
+guy,en,A2,,n.
+habit,en,A2,,n.
+half,en,A2,,adv.
+hall,en,A2,,n.
+happily,en,A2,,adv.
+have,en,A2,,auxiliary v.
+headache,en,A2,,n.
+heart,en,A2,,n.
+heat,en,A2,,"n., v."
+heavy,en,A2,,adj.
+height,en,A2,,n.
+helpful,en,A2,,adj.
+hero,en,A2,,n.
+hers,en,A2,,pron.
+herself,en,A2,,pron.
+hide,en,A2,,v.
+high,en,A2,,adv.
+hill,en,A2,,n.
+himself,en,A2,,pron.
+his,en,A2,,pron.
+hit,en,A2,,"v., n."
+hockey,en,A2,,n.
+hold,en,A2,,v.
+hole,en,A2,,n.
+home,en,A2,,adj.
+hope,en,A2,,n.
+huge,en,A2,,adj.
+human,en,A2,,"adj., n."
+hurt,en,A2,,"v., adj."
+ideal,en,A2,,adj.
+identify,en,A2,,v.
+ill,en,A2,,adj.
+illness,en,A2,,n.
+image,en,A2,,n.
+immediately,en,A2,,adv.
+impossible,en,A2,,adj.
+included,en,A2,,adj.
+including,en,A2,,prep.
+increase,en,A2,,"v., n."
+incredible,en,A2,,adj.
+independent,en,A2,,adj.
+individual,en,A2,,"n., adj."
+industry,en,A2,,n.
+informal,en,A2,,adj.
+injury,en,A2,,n.
+insect,en,A2,,n.
+inside,en,A2,,"prep., adv., n., adj."
+instead,en,A2,,adv.
+instruction,en,A2,,n.
+instructor,en,A2,,n.
+instrument,en,A2,,n.
+intelligent,en,A2,,adj.
+international,en,A2,,adj.
+introduction,en,A2,,n.
+invent,en,A2,,v.
+invention,en,A2,,n.
+invitation,en,A2,,n.
+invite,en,A2,,v.
+involve,en,A2,,v.
+item,en,A2,,n.
+itself,en,A2,,pron.
+jam,en,A2,,n.
+jazz,en,A2,,n.
+jewellery,en,A2,,n.
+joke,en,A2,,"n., v."
+journalist,en,A2,,n.
+jump,en,A2,,"v., n."
+kid,en,A2,,n.
+kill,en,A2,,v.
+king,en,A2,,n.
+knee,en,A2,,n.
+knife,en,A2,,n.
+knock,en,A2,,v.
+knowledge,en,A2,,n.
+lab,en,A2,,n.
+lady,en,A2,,n.
+lake,en,A2,,n.
+lamp,en,A2,,n.
+land,en,A2,,v.
+laptop,en,A2,,n.
+last1,en,A2,,"(final) adv., n."
+last1,en,A2,,(taking time) v.
+later,en,A2,,adj.
+laughter,en,A2,,n.
+law,en,A2,,n.
+lawyer,en,A2,,n.
+lazy,en,A2,,adj.
+lead1,en,A2,,v.
+leader,en,A2,,n.
+learning,en,A2,,n.
+least,en,A2,,"det./pron., adv."
+lecture,en,A2,,"n., v."
+lemon,en,A2,,n.
+lend,en,A2,,v.
+less,en,A2,,"det./pron., adv."
+level,en,A2,,n.
+lifestyle,en,A2,,n.
+lift,en,A2,,"v., n."
+light,en,A2,,(from the sun/a lamp) v.
+light,en,A2,,(not heavy) adj.
+likely,en,A2,,adj.
+link,en,A2,,"n., v."
+listener,en,A2,,n.
+little,en,A2,,adv.
+lock,en,A2,,"v., n."
+look,en,A2,,n.
+lorry,en,A2,,n.
+lost,en,A2,,adj.
+loud,en,A2,,"adj., adv."
+loudly,en,A2,,adv.
+lovely,en,A2,,adj.
+low,en,A2,,"adj., adv."
+luck,en,A2,,n.
+lucky,en,A2,,adj.
+mail,en,A2,,"n., v."
+major,en,A2,,adj.
+male,en,A2,,"adj., n."
+manage,en,A2,,v.
+manager,en,A2,,n.
+manner,en,A2,,n.
+mark,en,A2,,"v., n."
+marry,en,A2,,v.
+material,en,A2,,n.
+mathematics,en,A2,,n.
+maths,en,A2,,n.
+matter,en,A2,,"n., v."
+may,en,A2,,modal v.
+media,en,A2,,n.
+medical,en,A2,,adj.
+medicine,en,A2,,n.
+memory,en,A2,,n.
+mention,en,A2,,v.
+metal,en,A2,,n.
+method,en,A2,,n.
+middle,en,A2,,"n., adj."
+might,en,A2,,modal v.
+mind,en,A2,,"n., v."
+mine,en,A2,,(belongs to me) pron.
+mirror,en,A2,,n.
+missing,en,A2,,adj.
+mobile,en,A2,,"adj., n."
+monkey,en,A2,,n.
+moon,en,A2,,n.
+mostly,en,A2,,adv.
+motorcycle,en,A2,,n.
+movement,en,A2,,n.
+musical,en,A2,,adj.
+musician,en,A2,,n.
+myself,en,A2,,pron.
+narrow,en,A2,,adj.
+national,en,A2,,adj.
+nature,en,A2,,n.
+nearly,en,A2,,adv.
+necessary,en,A2,,adj.
+neck,en,A2,,n.
+need,en,A2,,n.
+neither,en,A2,,det./pron.
+nervous,en,A2,,adj.
+network,en,A2,,n.
+noise,en,A2,,n.
+noisy,en,A2,,adj.
+none,en,A2,,pron.
+normal,en,A2,,adj.
+normally,en,A2,,adv.
+notice,en,A2,,"v., n."
+novel,en,A2,,n.
+nowhere,en,A2,,adv.
+number,en,A2,,v.
+nut,en,A2,,n.
+ocean,en,A2,,n.
+offer,en,A2,,"v., n."
+officer,en,A2,,n.
+oil,en,A2,,n.
+onto,en,A2,,prep.
+opportunity,en,A2,,n.
+option,en,A2,,n.
+ordinary,en,A2,,adj.
+organization,en,A2,,n.
+organize,en,A2,,v.
+original,en,A2,,adj.
+ourselves,en,A2,,pron.
+outside,en,A2,,"prep., n., adj."
+oven,en,A2,,n.
+own,en,A2,,v.
+owner,en,A2,,n.
+pack,en,A2,,v.
+pain,en,A2,,n.
+painter,en,A2,,n.
+palace,en,A2,,n.
+pants,en,A2,,n.
+parking,en,A2,,n.
+particular,en,A2,,adj.
+pass,en,A2,,v.
+passenger,en,A2,,n.
+past,en,A2,,adv.
+patient,en,A2,,n.
+pattern,en,A2,,n.
+pay,en,A2,,n.
+peace,en,A2,,n.
+penny,en,A2,,n.
+per,en,A2,,prep.
+per cent,en,A2,,"n., adj./adv."
+perform,en,A2,,v.
+perhaps,en,A2,,adv.
+permission,en,A2,,n.
+personality,en,A2,,n.
+pet,en,A2,,n.
+petrol,en,A2,,n.
+photograph,en,A2,,v.
+physical,en,A2,,adj.
+physics,en,A2,,n.
+pick,en,A2,,v.
+pilot,en,A2,,n.
+planet,en,A2,,n.
+plant,en,A2,,v.
+plastic,en,A2,,"n., adj."
+plate,en,A2,,n.
+platform,en,A2,,n.
+please,en,A2,,v.
+pleased,en,A2,,adj.
+pocket,en,A2,,n.
+polite,en,A2,,adj.
+pollution,en,A2,,n.
+pop,en,A2,,"n., adj."
+population,en,A2,,n.
+position,en,A2,,n.
+possession,en,A2,,n.
+possibility,en,A2,,n.
+poster,en,A2,,n.
+power,en,A2,,n.
+predict,en,A2,,v.
+present,en,A2,,v.
+president,en,A2,,n.
+prevent,en,A2,,v.
+print,en,A2,,v.
+printer,en,A2,,n.
+prison,en,A2,,n.
+prize,en,A2,,n.
+process,en,A2,,n.
+produce,en,A2,,v.
+professional,en,A2,,adj.
+professor,en,A2,,n.
+profile,en,A2,,n.
+program,en,A2,,n.
+progress,en,A2,,n.
+promise,en,A2,,"v., n."
+pronounce,en,A2,,v.
+protect,en,A2,,v.
+provide,en,A2,,v.
+pub,en,A2,,n.
+public,en,A2,,"adj., n."
+publish,en,A2,,v.
+pull,en,A2,,v.
+purpose,en,A2,,n.
+push,en,A2,,v.
+quality,en,A2,,n.
+quantity,en,A2,,n.
+queen,en,A2,,n.
+question,en,A2,,v.
+quietly,en,A2,,adv.
+race,en,A2,,"(competition) n., v."
+railway,en,A2,,n.
+raise,en,A2,,v.
+rate,en,A2,,n.
+rather,en,A2,,adv.
+reach,en,A2,,v.
+react,en,A2,,v.
+realize,en,A2,,v.
+receive,en,A2,,v.
+recent,en,A2,,adj.
+recently,en,A2,,adv.
+reception,en,A2,,n.
+recipe,en,A2,,n.
+recognize,en,A2,,v.
+recommend,en,A2,,v.
+record,en,A2,,"n., v."
+recording,en,A2,,n.
+recycle,en,A2,,v.
+reduce,en,A2,,v.
+refer,en,A2,,v.
+refuse1,en,A2,,v.
+region,en,A2,,n.
+regular,en,A2,,adj.
+relationship,en,A2,,n.
+remove,en,A2,,v.
+repair,en,A2,,v.
+replace,en,A2,,v.
+reply,en,A2,,"v., n."
+report,en,A2,,v.
+reporter,en,A2,,n.
+request,en,A2,,n.
+research,en,A2,,"n., v."
+researcher,en,A2,,n.
+respond,en,A2,,v.
+response,en,A2,,n.
+rest,en,A2,,(remaining part) n.
+rest,en,A2,,"(sleep/relax) n., v."
+review,en,A2,,"n., v."
+ride,en,A2,,n.
+ring1,en,A2,,n.
+ring2,en,A2,,v.
+rise,en,A2,,v.
+rock,en,A2,,(stone) n.
+rock,en,A2,,(music) n.
+role,en,A2,,n.
+roof,en,A2,,n.
+round,en,A2,,"adj., adv., prep."
+route,en,A2,,n.
+rubbish,en,A2,,n.
+rude,en,A2,,adj.
+run,en,A2,,n.
+runner,en,A2,,n.
+running,en,A2,,n.
+sadly,en,A2,,adv.
+safe,en,A2,,adj.
+sail,en,A2,,v.
+sailing,en,A2,,n.
+salary,en,A2,,n.
+sale,en,A2,,n.
+sauce,en,A2,,n.
+save,en,A2,,v.
+scared,en,A2,,adj.
+scary,en,A2,,adj.
+scene,en,A2,,n.
+schedule,en,A2,,n.
+score,en,A2,,"v., n."
+screen,en,A2,,n.
+search,en,A2,,"n., v."
+season,en,A2,,n.
+seat,en,A2,,n.
+second1,en,A2,,(next after the first) adv.
+secondly,en,A2,,adv.
+secret,en,A2,,"adj., n."
+secretary,en,A2,,n.
+seem,en,A2,,v.
+sense,en,A2,,n.
+separate,en,A2,,adj.
+series,en,A2,,n.
+serious,en,A2,,adj.
+serve,en,A2,,v.
+service,en,A2,,n.
+several,en,A2,,det./pron.
+shake,en,A2,,v.
+shall,en,A2,,modal v.
+shape,en,A2,,n.
+sheet,en,A2,,n.
+ship,en,A2,,n.
+shoulder,en,A2,,n.
+shout,en,A2,,"v., n."
+shut,en,A2,,"v., adj."
+side,en,A2,,n.
+sign,en,A2,,"n., v."
+silver,en,A2,,"n., adj."
+simple,en,A2,,adj.
+since,en,A2,,"prep., conj."
+singing,en,A2,,n.
+single,en,A2,,"adj., n."
+sir,en,A2,,n.
+site,en,A2,,n.
+size,en,A2,,n.
+ski,en,A2,,"v., adj., n."
+skiing,en,A2,,n.
+skin,en,A2,,n.
+sky,en,A2,,n.
+sleep,en,A2,,n.
+slowly,en,A2,,adv.
+smartphone,en,A2,,n.
+smell,en,A2,,"v., n."
+smile,en,A2,,"v., n."
+smoke,en,A2,,"n., v."
+smoking,en,A2,,n.
+soap,en,A2,,n.
+soccer,en,A2,,n.
+social,en,A2,,adj.
+society,en,A2,,n.
+sock,en,A2,,n.
+soft,en,A2,,adj.
+soldier,en,A2,,n.
+solution,en,A2,,n.
+solve,en,A2,,v.
+somewhere,en,A2,,"adv., pron."
+sort,en,A2,,n.
+source,en,A2,,n.
+speaker,en,A2,,n.
+specific,en,A2,,adj.
+speech,en,A2,,n.
+speed,en,A2,,n.
+spider,en,A2,,n.
+spoon,en,A2,,n.
+square,en,A2,,"adj., n."
+stage,en,A2,,n.
+stair,en,A2,,n.
+stamp,en,A2,,n.
+star,en,A2,,v.
+start,en,A2,,n.
+state,en,A2,,n.
+stay,en,A2,,n.
+steal,en,A2,,v.
+step,en,A2,,n.
+stomach,en,A2,,n.
+stone,en,A2,,n.
+store,en,A2,,n.
+storm,en,A2,,n.
+straight,en,A2,,"adv., adj."
+strange,en,A2,,adj.
+strategy,en,A2,,n.
+stress,en,A2,,"n., v."
+structure,en,A2,,n.
+stupid,en,A2,,adj.
+succeed,en,A2,,v.
+successful,en,A2,,adj.
+such,en,A2,,det./pron.
+suddenly,en,A2,,adv.
+suggest,en,A2,,v.
+suggestion,en,A2,,n.
+suit,en,A2,,n.
+support,en,A2,,"v., n."
+suppose,en,A2,,v.
+sure,en,A2,,adv.
+surprise,en,A2,,"n., v."
+surprised,en,A2,,adj.
+surprising,en,A2,,adj.
+survey,en,A2,,n.
+sweet,en,A2,,"adj., n."
+symbol,en,A2,,n.
+system,en,A2,,n.
+tablet,en,A2,,n.
+talk,en,A2,,n.
+target,en,A2,,n.
+task,en,A2,,n.
+taste,en,A2,,"n., v."
+teaching,en,A2,,n.
+technology,en,A2,,n.
+teenage,en,A2,,adj.
+temperature,en,A2,,n.
+term,en,A2,,n.
+text,en,A2,,v.
+themselves,en,A2,,pron.
+thick,en,A2,,adj.
+thief,en,A2,,n.
+thin,en,A2,,adj.
+thinking,en,A2,,n.
+third,en,A2,,n.
+thought,en,A2,,n.
+throw,en,A2,,v.
+tidy,en,A2,,"adj., v."
+tie,en,A2,,"v., n."
+tip,en,A2,,n.
+tool,en,A2,,n.
+top,en,A2,,"n., adj."
+touch,en,A2,,v.
+tour,en,A2,,n.
+tourism,en,A2,,n.
+towards,en,A2,,prep.
+towel,en,A2,,n.
+tower,en,A2,,n.
+toy,en,A2,,"n., adj."
+track,en,A2,,n.
+tradition,en,A2,,n.
+traditional,en,A2,,adj.
+train,en,A2,,v.
+trainer,en,A2,,n.
+training,en,A2,,n.
+transport,en,A2,,n.
+traveller,en,A2,,n.
+trouble,en,A2,,n.
+truck,en,A2,,n.
+twin,en,A2,,"n., adj."
+typical,en,A2,,adj.
+underground,en,A2,,"adj., adv."
+understanding,en,A2,,n.
+unfortunately,en,A2,,adv.
+unhappy,en,A2,,adj.
+uniform,en,A2,,n.
+unit,en,A2,,n.
+united,en,A2,,adj.
+unusual,en,A2,,adj.
+upstairs,en,A2,,adj.
+use,en,A2,,n.
+used to,en,A2,,modal v.
+user,en,A2,,n.
+usual,en,A2,,adj.
+valley,en,A2,,n.
+van,en,A2,,n.
+variety,en,A2,,n.
+vehicle,en,A2,,n.
+view,en,A2,,n.
+virus,en,A2,,n.
+voice,en,A2,,n.
+wait,en,A2,,n.
+war,en,A2,,n.
+wash,en,A2,,n.
+washing,en,A2,,n.
+wave,en,A2,,n.
+weak,en,A2,,adj.
+web,en,A2,,n.
+wedding,en,A2,,n.
+weight,en,A2,,n.
+welcome,en,A2,,n.
+wet,en,A2,,adj.
+wheel,en,A2,,n.
+while,en,A2,,conj.
+whole,en,A2,,adj.
+whose,en,A2,,det./pron.
+wide,en,A2,,adj.
+wild,en,A2,,adj.
+wind1,en,A2,,n.
+winner,en,A2,,n.
+wish,en,A2,,"v., n."
+wood,en,A2,,n.
+wooden,en,A2,,adj.
+working,en,A2,,adj.
+worried,en,A2,,adj.
+worry,en,A2,,v.
+worse,en,A2,,adj.
+worst,en,A2,,adj.
+wow,en,A2,,exclam.
+yet,en,A2,,adv.
+yours,en,A2,,pron.
+zero,en,A2,,number
+absolutely,en,B1,,adv.
+academic,en,B1,,adj.
+access,en,B1,,"n., v."
+accommodation,en,B1,,n.
+account,en,B1,,n.
+achievement,en,B1,,n.
+act,en,B1,,n.
+ad,en,B1,,n.
+addition,en,B1,,n.
+admire,en,B1,,v.
+admit,en,B1,,v.
+advanced,en,B1,,adj.
+advise,en,B1,,v.
+afford,en,B1,,v.
+age,en,B1,,v.
+aged,en,B1,,adj.
+agent,en,B1,,n.
+agreement,en,B1,,n.
+ahead,en,B1,,adv.
+aim,en,B1,,"v., n."
+alarm,en,B1,,n.
+album,en,B1,,n.
+alcohol,en,B1,,n.
+alcoholic,en,B1,,adj.
+alternative,en,B1,,adj.
+amazed,en,B1,,adj.
+ambition,en,B1,,n.
+ambitious,en,B1,,adj.
+analyse,en,B1,,v.
+analysis,en,B1,,n.
+announce,en,B1,,v.
+announcement,en,B1,,n.
+annoy,en,B1,,v.
+annoyed,en,B1,,adj.
+annoying,en,B1,,adj.
+apart,en,B1,,adv.
+apologize,en,B1,,v.
+application,en,B1,,n.
+appointment,en,B1,,n.
+appreciate,en,B1,,v.
+approximately,en,B1,,adv.
+arrest,en,B1,,"v., n."
+arrival,en,B1,,n.
+assignment,en,B1,,n.
+assist,en,B1,,v.
+atmosphere,en,B1,,n.
+attach,en,B1,,v.
+attitude,en,B1,,n.
+attract,en,B1,,v.
+attraction,en,B1,,n.
+authority,en,B1,,n.
+average,en,B1,,v.
+award,en,B1,,v.
+aware,en,B1,,adj.
+backwards,en,B1,,adv.
+bake,en,B1,,v.
+balance,en,B1,,"n., v."
+ban,en,B1,,"v., n."
+bank,en,B1,,(river) n.
+base,en,B1,,"n., v."
+basic,en,B1,,adj.
+basis,en,B1,,n.
+battery,en,B1,,n.
+battle,en,B1,,n.
+beauty,en,B1,,n.
+bee,en,B1,,n.
+belief,en,B1,,n.
+bell,en,B1,,n.
+bend,en,B1,,"v., n."
+benefit,en,B1,,v.
+better,en,B1,,n.
+bite,en,B1,,"v., n."
+block,en,B1,,"n., v."
+board,en,B1,,v.
+bomb,en,B1,,"n., v."
+border,en,B1,,n.
+bother,en,B1,,v.
+branch,en,B1,,n.
+brand,en,B1,,"n., v."
+brave,en,B1,,adj.
+breath,en,B1,,n.
+breathe,en,B1,,v.
+breathing,en,B1,,n.
+bride,en,B1,,n.
+bubble,en,B1,,n.
+bury,en,B1,,v.
+by,en,B1,,adv.
+calm,en,B1,,"adj., v., n."
+campaign,en,B1,,"n., v."
+campus,en,B1,,n.
+candidate,en,B1,,n.
+cap,en,B1,,n.
+captain,en,B1,,n.
+careless,en,B1,,adj.
+category,en,B1,,n.
+ceiling,en,B1,,n.
+celebration,en,B1,,n.
+central,en,B1,,adj.
+centre,en,B1,,v.
+ceremony,en,B1,,n.
+chain,en,B1,,n.
+challenge,en,B1,,n.
+champion,en,B1,,n.
+channel,en,B1,,n.
+chapter,en,B1,,n.
+charge,en,B1,,"n., v."
+cheap,en,B1,,adv.
+cheat,en,B1,,"v., n."
+cheerful,en,B1,,adj.
+chemical,en,B1,,"adj., n."
+chest,en,B1,,n.
+childhood,en,B1,,n.
+claim,en,B1,,"v., n."
+clause,en,B1,,n.
+clear,en,B1,,v.
+click,en,B1,,"v., n."
+client,en,B1,,n.
+climb,en,B1,,n.
+close2,en,B1,,adv.
+cloth,en,B1,,n.
+clue,en,B1,,n.
+coach,en,B1,,v.
+coal,en,B1,,n.
+coin,en,B1,,n.
+collection,en,B1,,n.
+coloured,en,B1,,adj.
+combine,en,B1,,v.
+comment,en,B1,,v.
+commercial,en,B1,,"adj., n."
+commit,en,B1,,v.
+communication,en,B1,,n.
+comparison,en,B1,,n.
+competitor,en,B1,,n.
+competitive,en,B1,,adj.
+complaint,en,B1,,n.
+complex,en,B1,,adj.
+concentrate,en,B1,,v.
+conclude,en,B1,,v.
+conclusion,en,B1,,n.
+confident,en,B1,,adj.
+confirm,en,B1,,v.
+confuse,en,B1,,v.
+confused,en,B1,,adj.
+connection,en,B1,,n.
+consequence,en,B1,,n.
+consist,en,B1,,v.
+consume,en,B1,,v.
+consumer,en,B1,,n.
+contact,en,B1,,"n., v."
+container,en,B1,,n.
+content1,en,B1,,n.
+continuous,en,B1,,adj.
+contrast,en,B1,,"n., v."
+convenient,en,B1,,adj.
+convince,en,B1,,v.
+cool,en,B1,,v.
+costume,en,B1,,n.
+cottage,en,B1,,n.
+cotton,en,B1,,n.
+count,en,B1,,n.
+countryside,en,B1,,n.
+court,en,B1,,n.
+cover,en,B1,,n.
+covered,en,B1,,adj.
+cream,en,B1,,adj.
+criminal,en,B1,,adj.
+cruel,en,B1,,adj.
+cultural,en,B1,,adj.
+currency,en,B1,,n.
+current,en,B1,,adj.
+currently,en,B1,,adv.
+curtain,en,B1,,n.
+custom,en,B1,,n.
+cut,en,B1,,n.
+daily,en,B1,,adv.
+damage,en,B1,,"n., v."
+deal,en,B1,,n.
+decade,en,B1,,n.
+decorate,en,B1,,v.
+deep,en,B1,,adv.
+define,en,B1,,v.
+definite,en,B1,,adj.
+definition,en,B1,,n.
+deliver,en,B1,,v.
+departure,en,B1,,n.
+despite,en,B1,,prep.
+destination,en,B1,,n.
+determine,en,B1,,v.
+determined,en,B1,,adj.
+development,en,B1,,n.
+diagram,en,B1,,n.
+diamond,en,B1,,n.
+difficulty,en,B1,,n.
+direct,en,B1,,"v., adv."
+directly,en,B1,,adv.
+dirt,en,B1,,n.
+disadvantage,en,B1,,n.
+disappointed,en,B1,,adj.
+disappointing,en,B1,,adj.
+discount,en,B1,,n.
+dislike,en,B1,,"v., n."
+divide,en,B1,,v.
+documentary,en,B1,,n.
+donate,en,B1,,v.
+double,en,B1,,adv.
+doubt,en,B1,,"n., v."
+dressed,en,B1,,adj.
+drop,en,B1,,n.
+drum,en,B1,,n.
+drunk,en,B1,,adj.
+due,en,B1,,adj.
+dust,en,B1,,n.
+duty,en,B1,,n.
+earthquake,en,B1,,n.
+eastern,en,B1,,adj.
+economic,en,B1,,adj.
+economy,en,B1,,n.
+edge,en,B1,,n.
+editor,en,B1,,n.
+educate,en,B1,,v.
+educated,en,B1,,adj.
+educational,en,B1,,adj.
+effective,en,B1,,adj.
+effectively,en,B1,,adv.
+effort,en,B1,,n.
+election,en,B1,,n.
+element,en,B1,,n.
+embarrassed,en,B1,,adj.
+embarrassing,en,B1,,adj.
+emergency,en,B1,,n.
+emotion,en,B1,,n.
+employment,en,B1,,n.
+empty,en,B1,,v.
+encourage,en,B1,,v.
+enemy,en,B1,,n.
+engaged,en,B1,,adj.
+engineering,en,B1,,n.
+entertain,en,B1,,v.
+entertainment,en,B1,,n.
+entrance,en,B1,,n.
+entry,en,B1,,n.
+environmental,en,B1,,adj.
+episode,en,B1,,n.
+equal,en,B1,,"adj., v."
+equally,en,B1,,adv.
+escape,en,B1,,"v., n."
+essential,en,B1,,adj.
+eventually,en,B1,,adv.
+examine,en,B1,,v.
+except,en,B1,,conj.
+exchange,en,B1,,"n., v."
+excitement,en,B1,,n.
+exhibition,en,B1,,n.
+expand,en,B1,,v.
+expected,en,B1,,adj.
+expedition,en,B1,,n.
+experience,en,B1,,v.
+experienced,en,B1,,adj.
+experiment,en,B1,,v.
+explode,en,B1,,v.
+explore,en,B1,,v.
+explosion,en,B1,,n.
+export,en,B1,,"n., v."
+extra,en,B1,,"n., adv."
+face,en,B1,,v.
+fairly,en,B1,,adv.
+familiar,en,B1,,adj.
+fancy,en,B1,,"v., adj."
+far,en,B1,,adj.
+fascinating,en,B1,,adj.
+fashionable,en,B1,,adj.
+fasten,en,B1,,v.
+favour,en,B1,,n.
+fear,en,B1,,v.
+feature,en,B1,,v.
+fence,en,B1,,n.
+fighting,en,B1,,n.
+file,en,B1,,n.
+financial,en,B1,,adj.
+fire,en,B1,,v.
+fitness,en,B1,,n.
+fixed,en,B1,,adj.
+flag,en,B1,,n.
+flood,en,B1,,"n., v."
+flour,en,B1,,n.
+flow,en,B1,,"v., n."
+fold,en,B1,,v.
+folk,en,B1,,"n., adj."
+following,en,B1,,n.
+force,en,B1,,"n., v."
+forever,en,B1,,adv.
+frame,en,B1,,"n., v."
+freeze,en,B1,,v.
+frequently,en,B1,,adv.
+friendship,en,B1,,n.
+frighten,en,B1,,v.
+frightened,en,B1,,adj.
+frightening,en,B1,,adj.
+frozen,en,B1,,adj.
+fry,en,B1,,v.
+fuel,en,B1,,n.
+function,en,B1,,n.
+fur,en,B1,,n.
+further,en,B1,,adv.
+garage,en,B1,,n.
+gather,en,B1,,v.
+generally,en,B1,,adv.
+generation,en,B1,,n.
+generous,en,B1,,adj.
+gentle,en,B1,,adj.
+gentleman,en,B1,,n.
+ghost,en,B1,,n.
+giant,en,B1,,"adj., n."
+glad,en,B1,,adj.
+global,en,B1,,adj.
+glove,en,B1,,n.
+go,en,B1,,n.
+goods,en,B1,,n.
+grade,en,B1,,n.
+graduate,en,B1,,"n., v."
+grain,en,B1,,n.
+grateful,en,B1,,adj.
+growth,en,B1,,n.
+guard,en,B1,,"n., v."
+guilty,en,B1,,adj.
+hand,en,B1,,v.
+hang,en,B1,,v.
+happiness,en,B1,,n.
+hardly,en,B1,,adv.
+hate,en,B1,,n.
+head,en,B1,,v.
+headline,en,B1,,n.
+heating,en,B1,,n.
+heavily,en,B1,,adv.
+helicopter,en,B1,,n.
+highlight,en,B1,,"v., n."
+highly,en,B1,,adv.
+hire,en,B1,,v.
+historic,en,B1,,adj.
+historical,en,B1,,adj.
+honest,en,B1,,adj.
+horrible,en,B1,,adj.
+horror,en,B1,,n.
+host,en,B1,,n.
+hunt,en,B1,,v.
+hurricane,en,B1,,n.
+hurry,en,B1,,"n., v."
+identity,en,B1,,n.
+ignore,en,B1,,v.
+illegal,en,B1,,adj.
+imaginary,en,B1,,adj.
+immediate,en,B1,,adj.
+immigrant,en,B1,,n.
+impact,en,B1,,"n., v."
+import,en,B1,,"n., v."
+importance,en,B1,,n.
+impression,en,B1,,n.
+impressive,en,B1,,adj.
+improvement,en,B1,,n.
+incredibly,en,B1,,adv.
+indeed,en,B1,,adv.
+indicate,en,B1,,v.
+indirect,en,B1,,adj.
+indoor,en,B1,,adj.
+indoors,en,B1,,adv.
+influence,en,B1,,"n., v."
+ingredient,en,B1,,n.
+injure,en,B1,,v.
+injured,en,B1,,adj.
+innocent,en,B1,,adj.
+intelligence,en,B1,,n.
+intend,en,B1,,v.
+intention,en,B1,,n.
+invest,en,B1,,v.
+investigate,en,B1,,v.
+involved,en,B1,,adj.
+iron,en,B1,,"n., v."
+issue,en,B1,,n.
+IT,en,B1,,n.
+journal,en,B1,,n.
+judge,en,B1,,"n., v."
+keen,en,B1,,adj.
+key,en,B1,,v.
+keyboard,en,B1,,n.
+kick,en,B1,,"v., n."
+killing,en,B1,,n.
+kind,en,B1,,(caring) adj.
+kiss,en,B1,,"v., n."
+knock,en,B1,,n.
+label,en,B1,,"n., v."
+laboratory,en,B1,,n.
+lack,en,B1,,"n., v."
+latest,en,B1,,adj.
+lay,en,B1,,v.
+layer,en,B1,,n.
+lead1,en,B1,,n.
+leading,en,B1,,adj.
+leaf,en,B1,,n.
+leather,en,B1,,n.
+legal,en,B1,,adj.
+leisure,en,B1,,n.
+length,en,B1,,n.
+level,en,B1,,adj.
+lie2,en,B1,,"(tell a lie) v., n."
+like,en,B1,,(find sb/sth pleasant) n.
+limit,en,B1,,"n., v."
+lip,en,B1,,n.
+liquid,en,B1,,"n., adj."
+literature,en,B1,,n.
+live2,en,B1,,"adj., adv."
+living,en,B1,,"adj., n."
+local,en,B1,,n.
+locate,en,B1,,v.
+located,en,B1,,adj.
+location,en,B1,,n.
+lonely,en,B1,,adj.
+loss,en,B1,,n.
+luxury,en,B1,,n.
+mad,en,B1,,adj.
+magic,en,B1,,"n., adj."
+mainly,en,B1,,adv.
+mall,en,B1,,n.
+management,en,B1,,n.
+market,en,B1,,v.
+marketing,en,B1,,n.
+marriage,en,B1,,n.
+meanwhile,en,B1,,adv.
+measure,en,B1,,"v., n."
+medium,en,B1,,adj.
+mental,en,B1,,adj.
+mention,en,B1,,n.
+mess,en,B1,,n.
+mild,en,B1,,adj.
+mine,en,B1,,(hole in the ground) n.
+mix,en,B1,,"v., n."
+mixture,en,B1,,n.
+mood,en,B1,,n.
+move,en,B1,,n.
+mud,en,B1,,n.
+murder,en,B1,,"n., v."
+muscle,en,B1,,n.
+musical,en,B1,,n.
+mystery,en,B1,,n.
+nail,en,B1,,n.
+narrative,en,B1,,"n., adj."
+nation,en,B1,,n.
+native,en,B1,,"adj., n."
+naturally,en,B1,,adv.
+necessarily,en,B1,,adv.
+need,en,B1,,modal v.
+needle,en,B1,,n.
+neighbourhood,en,B1,,n.
+neither,en,B1,,adv.
+net,en,B1,,n.
+next,en,B1,,n.
+nor,en,B1,,conj./adv.
+normal,en,B1,,n.
+northern,en,B1,,adj.
+note,en,B1,,v.
+now,en,B1,,conj.
+nuclear,en,B1,,adj.
+obvious,en,B1,,adj.
+obviously,en,B1,,adv.
+occasion,en,B1,,n.
+occur,en,B1,,v.
+odd,en,B1,,adj.
+official,en,B1,,adj.
+old-fashioned,en,B1,,adj.
+once,en,B1,,conj.
+operation,en,B1,,n.
+organized,en,B1,,adj.
+organizer,en,B1,,n.
+original,en,B1,,n.
+originally,en,B1,,adv.
+ought,en,B1,,modal v.
+ours,en,B1,,pron.
+outdoor,en,B1,,adj.
+outdoors,en,B1,,adv.
+pack,en,B1,,n.
+package,en,B1,,n.
+painful,en,B1,,adj.
+pale,en,B1,,adj.
+pan,en,B1,,n.
+participate,en,B1,,v.
+particularly,en,B1,,adv.
+pass,en,B1,,n.
+passion,en,B1,,n.
+path,en,B1,,n.
+payment,en,B1,,n.
+peaceful,en,B1,,adj.
+percentage,en,B1,,n.
+perfectly,en,B1,,adv.
+performance,en,B1,,n.
+personally,en,B1,,adv.
+persuade,en,B1,,v.
+photographer,en,B1,,n.
+photography,en,B1,,n.
+pin,en,B1,,"n., v."
+pipe,en,B1,,n.
+place,en,B1,,v.
+planning,en,B1,,n.
+pleasant,en,B1,,adj.
+pleasure,en,B1,,n.
+plenty,en,B1,,pron.
+plot,en,B1,,n.
+plus1,en,B1,,prep.
+poem,en,B1,,n.
+poet,en,B1,,n.
+poetry,en,B1,,n.
+point,en,B1,,v.
+poison,en,B1,,"n., v."
+poisonous,en,B1,,adj.
+policy,en,B1,,n.
+political,en,B1,,adj.
+politician,en,B1,,n.
+politics,en,B1,,n.
+port,en,B1,,n.
+portrait,en,B1,,n.
+possibly,en,B1,,adv.
+pot,en,B1,,n.
+pour,en,B1,,v.
+poverty,en,B1,,n.
+powder,en,B1,,n.
+powerful,en,B1,,adj.
+practical,en,B1,,adj.
+pray,en,B1,,v.
+prayer,en,B1,,n.
+prediction,en,B1,,n.
+prepared,en,B1,,adj.
+presentation,en,B1,,n.
+press,en,B1,,"n., v."
+pressure,en,B1,,n.
+pretend,en,B1,,v.
+previous,en,B1,,adj.
+previously,en,B1,,adv.
+priest,en,B1,,n.
+primary,en,B1,,adj.
+prince,en,B1,,n.
+princess,en,B1,,n.
+printing,en,B1,,n.
+prisoner,en,B1,,n.
+private,en,B1,,adj.
+producer,en,B1,,n.
+production,en,B1,,n.
+profession,en,B1,,n.
+profit,en,B1,,n.
+program,en,B1,,v.
+promote,en,B1,,v.
+proper,en,B1,,adj.
+properly,en,B1,,adv.
+property,en,B1,,n.
+protest,en,B1,,"n., v."
+proud,en,B1,,adj.
+prove,en,B1,,v.
+pull,en,B1,,n.
+punish,en,B1,,v.
+punishment,en,B1,,n.
+push,en,B1,,n.
+qualification,en,B1,,n.
+qualified,en,B1,,adj.
+qualify,en,B1,,v.
+queue,en,B1,,"n., v."
+quit,en,B1,,v.
+quotation,en,B1,,n.
+quote,en,B1,,"v., n."
+race,en,B1,,(people) n.
+racing,en,B1,,n.
+range,en,B1,,n.
+rare,en,B1,,adj.
+rarely,en,B1,,adv.
+reaction,en,B1,,n.
+reality,en,B1,,n.
+receipt,en,B1,,n.
+recommendation,en,B1,,n.
+reference,en,B1,,n.
+reflect,en,B1,,v.
+regularly,en,B1,,adv.
+reject,en,B1,,v.
+relate,en,B1,,v.
+related,en,B1,,adj.
+relation,en,B1,,n.
+relative,en,B1,,"adj., n."
+relaxed,en,B1,,adj.
+relaxing,en,B1,,adj.
+release,en,B1,,"v., n."
+reliable,en,B1,,adj.
+religion,en,B1,,n.
+religious,en,B1,,adj.
+remain,en,B1,,v.
+remind,en,B1,,v.
+remote,en,B1,,adj.
+rent,en,B1,,"n., v."
+repair,en,B1,,n.
+repeat,en,B1,,n.
+repeated,en,B1,,adj.
+represent,en,B1,,v.
+request,en,B1,,v.
+require,en,B1,,v.
+reservation,en,B1,,n.
+resource,en,B1,,n.
+respect,en,B1,,"n., v."
+responsibility,en,B1,,n.
+responsible,en,B1,,adj.
+result,en,B1,,v.
+retire,en,B1,,v.
+retired,en,B1,,adj.
+revise,en,B1,,v.
+ring2,en,B1,,n.
+rise,en,B1,,n.
+risk,en,B1,,"n., v."
+robot,en,B1,,n.
+roll,en,B1,,"v., n."
+romantic,en,B1,,adj.
+rope,en,B1,,n.
+rough,en,B1,,adj.
+row1,en,B1,,n.
+royal,en,B1,,adj.
+rugby,en,B1,,n.
+rule,en,B1,,v.
+safety,en,B1,,n.
+sail,en,B1,,n.
+sailor,en,B1,,n.
+sample,en,B1,,n.
+sand,en,B1,,n.
+scan,en,B1,,v.
+scientific,en,B1,,adj.
+script,en,B1,,n.
+sculpture,en,B1,,n.
+secondary,en,B1,,adj.
+security,en,B1,,n.
+seed,en,B1,,n.
+sensible,en,B1,,adj.
+separate,en,B1,,v.
+seriously,en,B1,,adv.
+servant,en,B1,,n.
+set,en,B1,,(put) v.
+set,en,B1,,(group) n.
+setting,en,B1,,n.
+sex,en,B1,,n.
+sexual,en,B1,,adj.
+shake,en,B1,,n.
+share,en,B1,,n.
+sharp,en,B1,,adj.
+shelf,en,B1,,n.
+shell,en,B1,,n.
+shift,en,B1,,n.
+shine,en,B1,,v.
+shiny,en,B1,,adj.
+shoot,en,B1,,v.
+shy,en,B1,,adj.
+sight,en,B1,,n.
+signal,en,B1,,"n., v."
+silent,en,B1,,adj.
+silly,en,B1,,adj.
+similarity,en,B1,,n.
+similarly,en,B1,,adv.
+simply,en,B1,,adv.
+since,en,B1,,adv.
+sink,en,B1,,v.
+slice,en,B1,,"n., v."
+slightly,en,B1,,adv.
+slow,en,B1,,v.
+smart,en,B1,,adj.
+smooth,en,B1,,adj.
+software,en,B1,,n.
+soil,en,B1,,n.
+solid,en,B1,,"adj., n."
+sort,en,B1,,v.
+southern,en,B1,,adj.
+specifically,en,B1,,adv.
+spending,en,B1,,n.
+spicy,en,B1,,adj.
+spirit,en,B1,,n.
+spoken,en,B1,,adj.
+spot,en,B1,,n.
+spread,en,B1,,v.
+spring,en,B1,,v.
+stadium,en,B1,,n.
+staff,en,B1,,n.
+standard,en,B1,,"n., adj."
+state,en,B1,,"adj., v."
+statistic,en,B1,,n.
+statue,en,B1,,n.
+stick,en,B1,,(push into/attach) v.
+stick,en,B1,,(piece of wood) n.
+still,en,B1,,adj.
+store,en,B1,,v.
+stranger,en,B1,,n.
+strength,en,B1,,n.
+string,en,B1,,n.
+strongly,en,B1,,adv.
+studio,en,B1,,n.
+stuff,en,B1,,n.
+substance,en,B1,,n.
+successfully,en,B1,,adv.
+sudden,en,B1,,adj.
+suffer,en,B1,,v.
+suit,en,B1,,v.
+suitable,en,B1,,adj.
+summarize,en,B1,,v.
+summary,en,B1,,n.
+supply,en,B1,,"n., v."
+supporter,en,B1,,n.
+surely,en,B1,,adv.
+surface,en,B1,,n.
+survive,en,B1,,v.
+swim,en,B1,,n.
+switch,en,B1,,v.
+symptom,en,B1,,n.
+tail,en,B1,,n.
+talent,en,B1,,n.
+talented,en,B1,,adj.
+tape,en,B1,,n.
+tax,en,B1,,"n., v."
+technical,en,B1,,adj.
+technique,en,B1,,n.
+tend,en,B1,,v.
+tent,en,B1,,n.
+that,en,B1,,adv.
+theirs,en,B1,,pron.
+theme,en,B1,,n.
+theory,en,B1,,n.
+therefore,en,B1,,adv.
+this,en,B1,,adv.
+though,en,B1,,"conj., adv."
+throat,en,B1,,n.
+throughout,en,B1,,prep./adv.
+tight,en,B1,,adj.
+till,en,B1,,conj./prep.
+tin,en,B1,,n.
+tiny,en,B1,,adj.
+tip,en,B1,,v.
+toe,en,B1,,n.
+tongue,en,B1,,n.
+total,en,B1,,"adj., n."
+totally,en,B1,,adv.
+touch,en,B1,,n.
+tour,en,B1,,v.
+trade,en,B1,,"n., v."
+translate,en,B1,,v.
+translation,en,B1,,n.
+transport,en,B1,,v.
+treat,en,B1,,v.
+treatment,en,B1,,n.
+trend,en,B1,,n.
+trick,en,B1,,"n., v."
+truth,en,B1,,n.
+tube,en,B1,,n.
+type,en,B1,,v.
+typically,en,B1,,adv.
+tyre,en,B1,,n.
+ugly,en,B1,,adj.
+unable,en,B1,,adj.
+uncomfortable,en,B1,,adj.
+underwear,en,B1,,n.
+unemployed,en,B1,,adj.
+unemployment,en,B1,,n.
+unfair,en,B1,,adj.
+union,en,B1,,n.
+unless,en,B1,,conj.
+unlike,en,B1,,prep.
+unlikely,en,B1,,adj.
+unnecessary,en,B1,,adj.
+unpleasant,en,B1,,adj.
+update,en,B1,,"v., n."
+upon,en,B1,,prep.
+upset,en,B1,,"adj., v."
+used1,en,B1,,adj.
+used2,en,B1,,adj.
+valuable,en,B1,,adj.
+value,en,B1,,n.
+various,en,B1,,adj.
+version,en,B1,,n.
+victim,en,B1,,n.
+view,en,B1,,v.
+viewer,en,B1,,n.
+violent,en,B1,,adj.
+volunteer,en,B1,,"n., v."
+vote,en,B1,,"n., v."
+warm,en,B1,,v.
+warn,en,B1,,v.
+warning,en,B1,,n.
+waste,en,B1,,"n., v., adj."
+water,en,B1,,v.
+wave,en,B1,,v.
+weapon,en,B1,,n.
+weigh,en,B1,,v.
+western,en,B1,,adj.
+whatever,en,B1,,det./pron.
+whenever,en,B1,,conj.
+whether,en,B1,,conj.
+while,en,B1,,n.
+whole,en,B1,,n.
+will,en,B1,,n.
+win,en,B1,,n.
+wing,en,B1,,n.
+within,en,B1,,prep.
+wonder,en,B1,,"v., n."
+wool,en,B1,,n.
+worldwide,en,B1,,"adj., adv."
+worry,en,B1,,n.
+worse,en,B1,,adv.
+worst,en,B1,,adv.
+worth,en,B1,,adj.
+written,en,B1,,adj.
+wrong,en,B1,,adv.
+yard,en,B1,,n.
+young,en,B1,,n.
+youth,en,B1,,n.
+abandon,en,B2,,v.
+absolute,en,B2,,adj.
+academic,en,B2,,n.
+acceptable,en,B2,,adj.
+accompany,en,B2,,v.
+account,en,B2,,v.
+accurate,en,B2,,adj.
+accuse,en,B2,,v.
+acknowledge,en,B2,,v.
+acquire,en,B2,,v.
+actual,en,B2,,adj.
+adapt,en,B2,,v.
+additional,en,B2,,adj.
+address,en,B2,,v.
+administration,en,B2,,n.
+adopt,en,B2,,v.
+advance,en,B2,,"n., v., adj."
+affair,en,B2,,n.
+afterwards,en,B2,,adv.
+agency,en,B2,,n.
+agenda,en,B2,,n.
+aggressive,en,B2,,adj.
+aid,en,B2,,"n., v."
+aircraft,en,B2,,n.
+alarm,en,B2,,v.
+alter,en,B2,,v.
+amount,en,B2,,v.
+anger,en,B2,,n.
+angle,en,B2,,n.
+anniversary,en,B2,,n.
+annual,en,B2,,adj.
+anxious,en,B2,,adj.
+apparent,en,B2,,adj.
+apparently,en,B2,,adv.
+appeal,en,B2,,"n., v."
+approach,en,B2,,"n., v."
+appropriate,en,B2,,adj.
+approval,en,B2,,n.
+approve,en,B2,,v.
+arise,en,B2,,v.
+armed,en,B2,,adj.
+arms,en,B2,,n.
+artificial,en,B2,,adj.
+artistic,en,B2,,adj.
+ashamed,en,B2,,adj.
+aspect,en,B2,,n.
+assess,en,B2,,v.
+assessment,en,B2,,n.
+associate,en,B2,,v.
+associated,en,B2,,adj.
+association,en,B2,,n.
+assume,en,B2,,v.
+attempt,en,B2,,"n., v."
+back,en,B2,,v.
+bacteria,en,B2,,n.
+bar,en,B2,,v.
+barrier,en,B2,,n.
+basically,en,B2,,adv.
+battle,en,B2,,v.
+bear,en,B2,,(deal with) v.
+beat,en,B2,,n.
+beg,en,B2,,v.
+being,en,B2,,n.
+bent,en,B2,,adj.
+bet,en,B2,,"v., n."
+beyond,en,B2,,"prep., adv."
+bill,en,B2,,v.
+bitter,en,B2,,adj.
+blame,en,B2,,"v., n."
+blind,en,B2,,adj.
+bond,en,B2,,n.
+border,en,B2,,v.
+breast,en,B2,,n.
+brief,en,B2,,adj.
+broad,en,B2,,adj.
+broadcast,en,B2,,"v., n."
+budget,en,B2,,n.
+bullet,en,B2,,n.
+bunch,en,B2,,n.
+burn,en,B2,,n.
+bush,en,B2,,n.
+but,en,B2,,prep.
+cable,en,B2,,n.
+calculate,en,B2,,v.
+cancel,en,B2,,v.
+cancer,en,B2,,n.
+capable,en,B2,,adj.
+capacity,en,B2,,n.
+capture,en,B2,,"v., n."
+cast,en,B2,,"n., v."
+catch,en,B2,,n.
+cell,en,B2,,n.
+chain,en,B2,,v.
+chair,en,B2,,v.
+chairman,en,B2,,n.
+challenge,en,B2,,v.
+characteristic,en,B2,,"n., adj."
+chart,en,B2,,v.
+chief,en,B2,,"adj., n."
+circumstance,en,B2,,n.
+cite,en,B2,,v.
+citizen,en,B2,,n.
+civil,en,B2,,adj.
+classic,en,B2,,"adj., n."
+close1,en,B2,,n.
+closely,en,B2,,adv.
+collapse,en,B2,,"v., n."
+combination,en,B2,,n.
+comfort,en,B2,,"n., v."
+command,en,B2,,"n., v."
+commission,en,B2,,"n., v."
+commitment,en,B2,,n.
+committee,en,B2,,n.
+commonly,en,B2,,adv.
+complex,en,B2,,n.
+complicated,en,B2,,adj.
+component,en,B2,,n.
+concentration,en,B2,,n.
+concept,en,B2,,n.
+concern,en,B2,,"n., v."
+concerned,en,B2,,adj.
+conduct,en,B2,,"v., n."
+confidence,en,B2,,n.
+conflict,en,B2,,"n., v."
+confusing,en,B2,,adj.
+conscious,en,B2,,adj.
+conservative,en,B2,,"adj., n."
+consideration,en,B2,,n.
+consistent,en,B2,,adj.
+constant,en,B2,,adj.
+constantly,en,B2,,adv.
+construct,en,B2,,v.
+construction,en,B2,,n.
+contemporary,en,B2,,adj.
+contest,en,B2,,"n., v."
+contract,en,B2,,"n., v."
+contribute,en,B2,,v.
+contribution,en,B2,,n.
+convert,en,B2,,v.
+convinced,en,B2,,adj.
+core,en,B2,,"n., adj."
+corporate,en,B2,,adj.
+council,en,B2,,n.
+county,en,B2,,n.
+courage,en,B2,,n.
+crash,en,B2,,"n., v."
+creation,en,B2,,n.
+creature,en,B2,,n.
+credit,en,B2,,v.
+crew,en,B2,,n.
+crisis,en,B2,,n.
+criterion,en,B2,,n.
+critic,en,B2,,n.
+critical,en,B2,,adj.
+criticism,en,B2,,n.
+criticize,en,B2,,v.
+crop,en,B2,,n.
+crucial,en,B2,,adj.
+cry,en,B2,,n.
+cure,en,B2,,"v., n."
+current,en,B2,,n.
+curve,en,B2,,"n., v."
+curved,en,B2,,adj.
+date,en,B2,,v.
+debate,en,B2,,"n., v."
+debt,en,B2,,n.
+decent,en,B2,,adj.
+declare,en,B2,,v.
+decline,en,B2,,"v., n."
+decoration,en,B2,,n.
+decrease,en,B2,,"v., n."
+deeply,en,B2,,adv.
+defeat,en,B2,,"v., n."
+defence,en,B2,,n.
+defend,en,B2,,v.
+delay,en,B2,,"v., n."
+deliberate,en,B2,,adj.
+deliberately,en,B2,,adv.
+delight,en,B2,,"v., n."
+delighted,en,B2,,adj.
+delivery,en,B2,,n.
+demand,en,B2,,"n., v."
+demonstrate,en,B2,,v.
+deny,en,B2,,v.
+depressed,en,B2,,adj.
+depressing,en,B2,,adj.
+depth,en,B2,,n.
+desert,en,B2,,v.
+deserve,en,B2,,v.
+desire,en,B2,,"n., v."
+desperate,en,B2,,adj.
+detail,en,B2,,v.
+detailed,en,B2,,adj.
+detect,en,B2,,v.
+dig,en,B2,,v.
+disc,en,B2,,n.
+discipline,en,B2,,n.
+discount,en,B2,,v.
+dishonest,en,B2,,adj.
+dismiss,en,B2,,v.
+display,en,B2,,"v., n."
+distribute,en,B2,,v.
+distribution,en,B2,,n.
+district,en,B2,,n.
+divide,en,B2,,n.
+division,en,B2,,n.
+document,en,B2,,v.
+domestic,en,B2,,adj.
+dominate,en,B2,,v.
+downwards,en,B2,,adv.
+dozen,en,B2,,"n., det."
+draft,en,B2,,"n., v."
+drag,en,B2,,v.
+dramatic,en,B2,,adj.
+edit,en,B2,,v.
+edition,en,B2,,n.
+efficient,en,B2,,adj.
+elderly,en,B2,,adj.
+elect,en,B2,,v.
+elsewhere,en,B2,,adv.
+emerge,en,B2,,v.
+emotional,en,B2,,adj.
+emphasis,en,B2,,n.
+emphasize,en,B2,,v.
+enable,en,B2,,v.
+encounter,en,B2,,"v., n."
+engage,en,B2,,v.
+enhance,en,B2,,v.
+enquiry,en,B2,,n.
+ensure,en,B2,,v.
+enthusiasm,en,B2,,n.
+enthusiastic,en,B2,,adj.
+entire,en,B2,,adj.
+entirely,en,B2,,adv.
+equal,en,B2,,n.
+establish,en,B2,,v.
+estate,en,B2,,n.
+estimate,en,B2,,"v., n."
+ethical,en,B2,,adj.
+evaluate,en,B2,,v.
+even,en,B2,,adj.
+evil,en,B2,,"adj., n."
+examination,en,B2,,n.
+excuse,en,B2,,"n., v."
+executive,en,B2,,"n., adj."
+existence,en,B2,,n.
+expectation,en,B2,,n.
+expense,en,B2,,n.
+exploration,en,B2,,n.
+expose,en,B2,,v.
+extend,en,B2,,v.
+extent,en,B2,,n.
+external,en,B2,,adj.
+extraordinary,en,B2,,adj.
+extreme,en,B2,,n.
+facility,en,B2,,n.
+failure,en,B2,,n.
+faith,en,B2,,n.
+fault,en,B2,,n.
+favour,en,B2,,v.
+feather,en,B2,,n.
+fee,en,B2,,n.
+feed,en,B2,,n.
+feedback,en,B2,,n.
+feel,en,B2,,n.
+fellow,en,B2,,adj.
+figure,en,B2,,v.
+file,en,B2,,v.
+finance,en,B2,,"n., v."
+finding,en,B2,,n.
+firm,en,B2,,n.
+fix,en,B2,,n.
+flame,en,B2,,n.
+flash,en,B2,,"n., v."
+flexible,en,B2,,adj.
+float,en,B2,,v.
+fold,en,B2,,n.
+folding,en,B2,,adj.
+following,en,B2,,prep.
+forgive,en,B2,,v.
+former,en,B2,,adj.
+fortune,en,B2,,n.
+forward,en,B2,,adj.
+found,en,B2,,v.
+free,en,B2,,v.
+freedom,en,B2,,n.
+frequency,en,B2,,n.
+fuel,en,B2,,v.
+fully,en,B2,,adv.
+function,en,B2,,v.
+fund,en,B2,,"n., v."
+fundamental,en,B2,,adj.
+funding,en,B2,,n.
+furthermore,en,B2,,adv.
+gain,en,B2,,"v., n."
+gang,en,B2,,n.
+generate,en,B2,,v.
+genre,en,B2,,n.
+govern,en,B2,,v.
+grab,en,B2,,v.
+grade,en,B2,,v.
+gradually,en,B2,,adv.
+grand,en,B2,,adj.
+grant,en,B2,,"v., n."
+guarantee,en,B2,,"v., n."
+handle,en,B2,,"v., n."
+harm,en,B2,,"n., v."
+harmful,en,B2,,adj.
+hearing,en,B2,,n.
+heaven,en,B2,,n.
+heel,en,B2,,n.
+hell,en,B2,,n.
+hesitate,en,B2,,v.
+high,en,B2,,n.
+hire,en,B2,,n.
+hold,en,B2,,n.
+hollow,en,B2,,adj.
+holy,en,B2,,adj.
+honour,en,B2,,"n., v."
+host,en,B2,,v.
+house,en,B2,,v.
+household,en,B2,,n.
+housing,en,B2,,n.
+humorous,en,B2,,adj.
+humour,en,B2,,n.
+hunt,en,B2,,n.
+hunting,en,B2,,n.
+hurt,en,B2,,n.
+ideal,en,B2,,n.
+illustrate,en,B2,,v.
+illustration,en,B2,,n.
+imagination,en,B2,,n.
+impatient,en,B2,,adj.
+imply,en,B2,,v.
+impose,en,B2,,v.
+impress,en,B2,,v.
+impressed,en,B2,,adj.
+inch,en,B2,,n.
+incident,en,B2,,n.
+income,en,B2,,n.
+increasingly,en,B2,,adv.
+industrial,en,B2,,adj.
+infection,en,B2,,n.
+inform,en,B2,,v.
+initial,en,B2,,adj.
+initially,en,B2,,adv.
+initiative,en,B2,,n.
+inner,en,B2,,adj.
+insight,en,B2,,n.
+insist,en,B2,,v.
+inspire,en,B2,,v.
+install,en,B2,,v.
+instance,en,B2,,n.
+institute,en,B2,,n.
+institution,en,B2,,n.
+insurance,en,B2,,n.
+intended,en,B2,,adj.
+intense,en,B2,,adj.
+internal,en,B2,,adj.
+interpret,en,B2,,v.
+interrupt,en,B2,,v.
+investigation,en,B2,,n.
+investment,en,B2,,n.
+issue,en,B2,,v.
+joy,en,B2,,n.
+judgement,en,B2,,n.
+junior,en,B2,,adj.
+justice,en,B2,,n.
+justify,en,B2,,v.
+labour,en,B2,,n.
+landscape,en,B2,,n.
+largely,en,B2,,adv.
+latest,en,B2,,n.
+launch,en,B2,,"v., n."
+leadership,en,B2,,n.
+league,en,B2,,n.
+lean,en,B2,,v.
+leave,en,B2,,n.
+level,en,B2,,v.
+licence,en,B2,,n.
+limited,en,B2,,adj.
+line,en,B2,,v.
+lively,en,B2,,adj.
+load,en,B2,,"n., v."
+loan,en,B2,,n.
+logical,en,B2,,adj.
+long-term,en,B2,,"adj., adv."
+loose,en,B2,,adj.
+lord,en,B2,,n.
+low,en,B2,,n.
+lower,en,B2,,v.
+lung,en,B2,,n.
+maintain,en,B2,,v.
+majority,en,B2,,n.
+make,en,B2,,n.
+map,en,B2,,v.
+mass,en,B2,,"n., adj."
+massive,en,B2,,adj.
+master,en,B2,,"n., v."
+matching,en,B2,,adj.
+material,en,B2,,adj.
+maximum,en,B2,,"adj., n."
+means,en,B2,,n.
+measurement,en,B2,,n.
+medium,en,B2,,n.
+melt,en,B2,,v.
+military,en,B2,,"adj., n."
+mineral,en,B2,,n.
+minimum,en,B2,,"adj., n."
+minister,en,B2,,n.
+minor,en,B2,,adj.
+minority,en,B2,,n.
+mission,en,B2,,n.
+mistake,en,B2,,v.
+mixed,en,B2,,adj.
+model,en,B2,,v.
+modify,en,B2,,v.
+monitor,en,B2,,"n., v."
+moral,en,B2,,"adj., n."
+motor,en,B2,,"n., adj."
+mount,en,B2,,v.
+multiple,en,B2,,adj.
+multiply,en,B2,,v.
+mysterious,en,B2,,adj.
+narrow,en,B2,,v.
+national,en,B2,,n.
+neat,en,B2,,adj.
+negative,en,B2,,n.
+nerve,en,B2,,n.
+nevertheless,en,B2,,adv.
+nightmare,en,B2,,n.
+notion,en,B2,,n.
+numerous,en,B2,,adj.
+obey,en,B2,,v.
+object,en,B2,,v.
+objective,en,B2,,"n., adj."
+obligation,en,B2,,n.
+observation,en,B2,,n.
+observe,en,B2,,v.
+obtain,en,B2,,v.
+occasionally,en,B2,,adv.
+offence,en,B2,,n.
+offend,en,B2,,v.
+offensive,en,B2,,adj.
+official,en,B2,,n.
+opening,en,B2,,n.
+operate,en,B2,,v.
+opponent,en,B2,,n.
+oppose,en,B2,,v.
+opposed,en,B2,,adj.
+opposition,en,B2,,n.
+organ,en,B2,,n.
+origin,en,B2,,n.
+otherwise,en,B2,,adv.
+outcome,en,B2,,n.
+outer,en,B2,,adj.
+outline,en,B2,,"n., v."
+overall,en,B2,,"adj., adv."
+owe,en,B2,,v.
+pace,en,B2,,"n., v."
+package,en,B2,,v.
+panel,en,B2,,n.
+parliament,en,B2,,n.
+participant,en,B2,,n.
+partly,en,B2,,adv.
+passage,en,B2,,n.
+patient,en,B2,,adj.
+pension1,en,B2,,n.
+permanent,en,B2,,adj.
+permit,en,B2,,"v., n."
+perspective,en,B2,,n.
+phase,en,B2,,n.
+phenomenon,en,B2,,n.
+philosophy,en,B2,,n.
+pick,en,B2,,n.
+picture,en,B2,,v.
+pile,en,B2,,"n., v."
+pitch,en,B2,,n.
+plain,en,B2,,adj.
+plot,en,B2,,v.
+plus1,en,B2,,"adj., n., conj."
+pointed,en,B2,,adj.
+popularity,en,B2,,n.
+pose,en,B2,,v.
+position,en,B2,,v.
+positive,en,B2,,n.
+possess,en,B2,,v.
+potential,en,B2,,"adj., n."
+power,en,B2,,v.
+praise,en,B2,,"n., v."
+pregnant,en,B2,,adj.
+preparation,en,B2,,n.
+presence,en,B2,,n.
+preserve,en,B2,,v.
+price,en,B2,,v.
+prime,en,B2,,adj.
+principle,en,B2,,n.
+print,en,B2,,n.
+priority,en,B2,,n.
+privacy,en,B2,,n.
+procedure,en,B2,,n.
+process,en,B2,,v.
+produce,en,B2,,n.
+professional,en,B2,,n.
+progress,en,B2,,v.
+project,en,B2,,v.
+proof,en,B2,,n.
+proposal,en,B2,,n.
+propose,en,B2,,v.
+prospect,en,B2,,n.
+protection,en,B2,,n.
+psychologist,en,B2,,n.
+psychology,en,B2,,n.
+publication,en,B2,,n.
+pupil,en,B2,,n.
+purchase,en,B2,,"n., v."
+pure,en,B2,,adj.
+pursue,en,B2,,v.
+range,en,B2,,v.
+rank,en,B2,,"n., v."
+rapid,en,B2,,adj.
+rapidly,en,B2,,adv.
+rate,en,B2,,v.
+raw,en,B2,,adj.
+reach,en,B2,,n.
+realistic,en,B2,,adj.
+reasonable,en,B2,,adj.
+recall,en,B2,,v.
+recover,en,B2,,v.
+reduction,en,B2,,n.
+regard,en,B2,,"v., n."
+regional,en,B2,,adj.
+register,en,B2,,"v., n."
+regret,en,B2,,"v., n."
+regulation,en,B2,,n.
+relatively,en,B2,,adv.
+relevant,en,B2,,adj.
+relief,en,B2,,n.
+rely,en,B2,,v.
+remark,en,B2,,"n., v."
+representative,en,B2,,"n., adj."
+reputation,en,B2,,n.
+requirement,en,B2,,n.
+rescue,en,B2,,"v., n."
+reserve,en,B2,,"n., v."
+resident,en,B2,,"n., adj."
+resist,en,B2,,v.
+resolve,en,B2,,v.
+resort,en,B2,,n.
+retain,en,B2,,v.
+reveal,en,B2,,v.
+revolution,en,B2,,n.
+reward,en,B2,,"n., v."
+rhythm,en,B2,,n.
+rid,en,B2,,v.
+root,en,B2,,n.
+round,en,B2,,n.
+routine,en,B2,,adj.
+rub,en,B2,,v.
+rubber,en,B2,,"n., adj."
+rural,en,B2,,adj.
+rush,en,B2,,"v., n."
+sample,en,B2,,v.
+satellite,en,B2,,n.
+satisfied,en,B2,,adj.
+satisfy,en,B2,,v.
+saving,en,B2,,n.
+scale,en,B2,,n.
+schedule,en,B2,,v.
+scheme,en,B2,,n.
+scream,en,B2,,"v., n."
+screen,en,B2,,v.
+seat,en,B2,,v.
+sector,en,B2,,n.
+secure,en,B2,,"v., adj."
+seek,en,B2,,v.
+select,en,B2,,v.
+selection,en,B2,,n.
+self,en,B2,,n.
+senior,en,B2,,adj.
+sense,en,B2,,v.
+sensitive,en,B2,,adj.
+sentence,en,B2,,v.
+sequence,en,B2,,n.
+session,en,B2,,n.
+settle,en,B2,,v.
+severe,en,B2,,adj.
+shade,en,B2,,n.
+shadow,en,B2,,n.
+shallow,en,B2,,adj.
+shame,en,B2,,n.
+shape,en,B2,,v.
+shelter,en,B2,,"n., v."
+shift,en,B2,,v.
+ship,en,B2,,v.
+shock,en,B2,,"n., v."
+shocked,en,B2,,adj.
+shooting,en,B2,,n.
+shot,en,B2,,n.
+significant,en,B2,,adj.
+significantly,en,B2,,adv.
+silence,en,B2,,n.
+silk,en,B2,,n.
+sincere,en,B2,,adj.
+slave,en,B2,,n.
+slide,en,B2,,"v., n."
+slight,en,B2,,adj.
+slip,en,B2,,v.
+slope,en,B2,,"n., v."
+solar,en,B2,,adj.
+somewhat,en,B2,,adv.
+soul,en,B2,,n.
+specialist,en,B2,,"n., adj."
+species,en,B2,,n.
+speed,en,B2,,v.
+spiritual,en,B2,,adj.
+split,en,B2,,"v., n."
+sponsor,en,B2,,"v., n."
+spot,en,B2,,v.
+spread,en,B2,,n.
+stable,en,B2,,adj.
+stage,en,B2,,v.
+stand,en,B2,,n.
+stare,en,B2,,v.
+status,en,B2,,n.
+steady,en,B2,,adj.
+steel,en,B2,,n.
+steep,en,B2,,adj.
+step,en,B2,,v.
+sticky,en,B2,,adj.
+stiff,en,B2,,adj.
+stock,en,B2,,n.
+stream,en,B2,,n.
+stretch,en,B2,,"v., n."
+strict,en,B2,,adj.
+strike,en,B2,,"v., n."
+structure,en,B2,,v.
+struggle,en,B2,,"v., n."
+stuff,en,B2,,v.
+subject,en,B2,,adj.
+submit,en,B2,,v.
+sum,en,B2,,"n., v."
+surgery,en,B2,,n.
+surround,en,B2,,v.
+surrounding,en,B2,,adj.
+survey,en,B2,,v.
+suspect,en,B2,,"v., n."
+swear,en,B2,,v.
+sweep,en,B2,,v.
+switch,en,B2,,n.
+sympathy,en,B2,,n.
+tale,en,B2,,n.
+tank,en,B2,,n.
+target,en,B2,,v.
+tear1,en,B2,,"v., n."
+tear2,en,B2,,n.
+temporary,en,B2,,adj.
+term,en,B2,,v.
+therapy,en,B2,,n.
+threat,en,B2,,n.
+threaten,en,B2,,v.
+thus,en,B2,,adv.
+time,en,B2,,v.
+title,en,B2,,v.
+tone,en,B2,,n.
+tough,en,B2,,adj.
+track,en,B2,,v.
+transfer,en,B2,,"v., n."
+transform,en,B2,,v.
+transition,en,B2,,n.
+trial,en,B2,,n.
+trip,en,B2,,v.
+tropical,en,B2,,adj.
+trouble,en,B2,,v.
+truly,en,B2,,adv.
+trust,en,B2,,"n., v."
+try,en,B2,,n.
+tune,en,B2,,n.
+tunnel,en,B2,,n.
+ultimately,en,B2,,adv.
+unconscious,en,B2,,adj.
+unexpected,en,B2,,adj.
+unique,en,B2,,adj.
+universe,en,B2,,n.
+unknown,en,B2,,adj.
+upper,en,B2,,adj.
+upwards,en,B2,,adv.
+urban,en,B2,,adj.
+urge,en,B2,,v.
+value,en,B2,,v.
+vary,en,B2,,v.
+vast,en,B2,,adj.
+venue,en,B2,,n.
+very,en,B2,,adj.
+via,en,B2,,prep.
+victory,en,B2,,n.
+violence,en,B2,,n.
+virtual,en,B2,,adj.
+vision,en,B2,,n.
+visual,en,B2,,adj.
+vital,en,B2,,adj.
+vitamin,en,B2,,n.
+volume,en,B2,,n.
+wage,en,B2,,n.
+way,en,B2,,adv.
+weakness,en,B2,,n.
+wealth,en,B2,,n.
+wealthy,en,B2,,adj.
+whereas,en,B2,,conj.
+wherever,en,B2,,conj.
+whisper,en,B2,,"v., n."
+whom,en,B2,,pron.
+widely,en,B2,,adv.
+wildlife,en,B2,,n.
+willing,en,B2,,adj.
+wind2,en,B2,,v.
+wire,en,B2,,n.
+wise,en,B2,,adj.
+witness,en,B2,,"n., v."
+worse,en,B2,,n.
+worst,en,B2,,n.
+worth,en,B2,,n.
+wound,en,B2,,"n., v."
+wrap,en,B2,,v.
+wrong,en,B2,,n.
+yet,en,B2,,conj.
+zone,en,B2,,n.
