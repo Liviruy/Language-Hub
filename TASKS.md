@@ -1,14 +1,14 @@
 # Tasks
 
-## Phase 6 — Anki Export (Current)
+## Phase 7 — Cloudflare R2 (Current)
 
-- [ ] Create `scripts/export_anki.py`
-- [ ] Design custom note model (front=word, back=IPA+def+audio)
-- [ ] Generate deck hierarchy per language (en/es/fr)
-- [ ] Stable GUID (hash of text + language)
-- [ ] Media support (embed audio in .apkg)
-- [ ] Export to exports/{lang}_{level}.apkg
-- [ ] Verify .apkg with Anki import test
+- [ ] Register Cloudflare account (if not already)
+- [ ] Create R2 bucket
+- [ ] Get R2 API credentials (Access Key + Secret)
+- [ ] Add credentials to .env file
+- [ ] Create `scripts/upload_r2.py`
+- [ ] Incremental upload: audio/ + exports/
+- [ ] Verify uploaded files
 
 ## Completed
 
@@ -17,3 +17,4 @@
 - [x] Phase 3: Importer
 - [x] Phase 4: Dictionary pipeline
 - [x] Phase 5: Audio generation
+- [x] Phase 6: Anki export
