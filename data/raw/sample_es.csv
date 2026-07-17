@@ -1,3 +1,11 @@
 text,language,ipa,cefr,frequency,meanings,tags
-adiós,es,/aˈðjos/,A1,150,"[{""pos"": ""interjección"", ""definition"": ""expresión usada para despedirse"", ""translation"": ""再见"", ""examples"": [""¡Adiós, nos vemos mañana!"", ""Dijo adiós y se fue.""]}]",A1,saludo
-gracias,es,/ˈɡɾaθjas/,A1,100,"[{""pos"": ""interjección"", ""definition"": ""expresión de agradecimiento"", ""translation"": ""谢谢"", ""examples"": [""Muchas gracias por tu ayuda."", ""Gracias a todos por venir.""]}]",A1,cortesía
+hola,es,/ˈola/,A1,90,"[{""pos"": ""interjection"", ""definition"": ""Expresión de saludo utilizada entre dos o más personas"", ""translation"": ""你好"", ""examples"": [""¡Hola! ¿Cómo estás?"", ""Dijo hola y entró.""]}]",A1,saludo
+adiós,es,/aˈðjos/,A1,130,"[{""pos"": ""interjection"", ""definition"": ""Expresión usada para despedirse"", ""translation"": ""再见"", ""examples"": [""¡Adiós, nos vemos mañana!"", ""Dijo adiós y se fue.""]}]",A1,saludo
+gracias,es,/ˈɡɾaθjas/,A1,80,"[{""pos"": ""interjection"", ""definition"": ""Expresión de agradecimiento"", ""translation"": ""谢谢"", ""examples"": [""Muchas gracias por tu ayuda."", ""Gracias a todos por venir.""]}]",A1,cortesía
+por favor,es,/poɾ faˈβoɾ/,A1,100,"[{""pos"": ""adverb"", ""definition"": ""Expresión de cortesía para pedir algo"", ""translation"": ""请"", ""examples"": [""Un café, por favor."", ""Puedes ayudarme, por favor?""]}]",A1,cortesía
+sí,es,/si/,A1,40,"[{""pos"": ""adverb"", ""definition"": ""Expresa afirmación o consentimiento"", ""translation"": ""是"", ""examples"": [""Sí, quiero aprender español."", ""Él dijo que sí.""]}]",A1,respuesta
+no,es,/no/,A1,50,"[{""pos"": ""adverb"", ""definition"": ""Expresa negación o rechazo"", ""translation"": ""不"", ""examples"": [""No, gracias."", ""No tengo tiempo.""]}]",A1,respuesta
+hablar,es,/aˈβlaɾ/,A2,350,"[{""pos"": ""verb"", ""definition"": ""Expresar algo usando palabras de viva voz"", ""translation"": ""说话"", ""examples"": [""Hablo tres idiomas."", ""Necesitamos hablar sobre esto.""]}]",A2,comunicación
+comer,es,/koˈmeɾ/,A2,300,"[{""pos"": ""verb"", ""definition"": ""Tomar alimentos por la boca"", ""translation"": ""吃"", ""examples"": [""Vamos a comer juntos."", ""Ya comí, gracias.""]}]",A2,cotidiano
+grande,es,/ˈɡɾande/,A2,400,"[{""pos"": ""adjective"", ""definition"": ""Que supera el tamaño común o normal"", ""translation"": ""大的"", ""examples"": [""Vive en una casa grande."", ""Es un país muy grande.""]}]",A2,descripción
+amigo,es,/aˈmiɣo/,A2,250,"[{""pos"": ""noun"", ""definition"": ""Persona con la que se tiene una relación de afecto"", ""translation"": ""朋友"", ""examples"": [""Mi amigo vive en Madrid."", ""Son amigos desde la infancia.""]}]",A2,relación

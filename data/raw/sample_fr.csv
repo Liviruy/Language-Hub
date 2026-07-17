@@ -1,3 +1,11 @@
 text,language,ipa,cefr,frequency,meanings,tags
-bonjour,fr,/bɔ̃ʒuʁ/,A1,100,"[{""pos"": ""interjection"", ""definition"": ""formule de salutation"", ""translation"": ""你好"", ""examples"": [""Bonjour, comment allez-vous?"", ""Elle a dit bonjour à tout le monde.""]}]",A1,salutation
-merci,fr,/mɛʁsi/,A1,80,"[{""pos"": ""interjection"", ""definition"": ""expression de gratitude"", ""translation"": ""谢谢"", ""examples"": [""Merci beaucoup pour votre aide."", ""Il a dit merci et est parti.""]}]",A1,politesse
+bonjour,fr,/bɔ̃ʒuʁ/,A1,100,"[{""pos"": ""interjection"", ""definition"": ""Formule de salutation utilisee lorsque on rencontre quelqu un"", ""translation"": ""你好"", ""examples"": [""Bonjour, comment allez-vous?"", ""Elle a dit bonjour a tout le monde.""]}]",A1,salutation
+merci,fr,/mɛʁsi/,A1,80,"[{""pos"": ""interjection"", ""definition"": ""Expression de gratitude"", ""translation"": ""谢谢"", ""examples"": [""Merci beaucoup pour votre aide."", ""Il a dit merci et est parti.""]}]",A1,politesse
+au revoir,fr,/o ʁəvwaʁ/,A1,150,"[{""pos"": ""interjection"", ""definition"": ""Formule de politesse utilisee pour prendre conge"", ""translation"": ""再见"", ""examples"": [""Au revoir, a demain!"", ""Elle nous a dit au revoir avant de partir.""]}]",A1,salutation
+oui,fr,/wi/,A1,50,"[{""pos"": ""adverb"", ""definition"": ""Marque accord, affirmation"", ""translation"": ""是"", ""examples"": [""Oui, je suis d accord."", ""Oui, bien sur!""]}]",A1,reponse
+non,fr,/nɔ̃/,A1,60,"[{""pos"": ""adverb"", ""definition"": ""Marque la negation, le refus"", ""translation"": ""不"", ""examples"": [""Non, je ne veux pas."", ""Non, merci.""]}]",A1,reponse
+parler,fr,/paʁle/,A2,300,"[{""pos"": ""verb"", ""definition"": ""Communiquer par la parole"", ""translation"": ""说话"", ""examples"": [""Il parle trois langues."", ""Nous avons parle pendant des heures.""]}]",A2,communication
+manger,fr,/mɑ̃ʒe/,A2,280,"[{""pos"": ""verb"", ""definition"": ""Macher et avaler un aliment"", ""translation"": ""吃"", ""examples"": [""Je mange a midi."", ""Nous avons mange au restaurant.""]}]",A2,quotidien
+grand,fr,/ɡʁɑ̃/,A2,350,"[{""pos"": ""adjective"", ""definition"": ""Qui depasse la moyenne par ses dimensions"", ""translation"": ""大的"", ""examples"": [""C est une grande maison."", ""Il est grand pour son age.""]}]",A2,description
+beau,fr,/bo/,A2,400,"[{""pos"": ""adjective"", ""definition"": ""Qui plait a loeil par ses proportions"", ""translation"": ""美丽的"", ""examples"": [""Quel beau paysage!"", ""C est une belle histoire.""]}]",A2,description
+ami,fr,/ami/,A2,250,"[{""pos"": ""noun"", ""definition"": ""Personne liee a une autre par un sentiment daffection"", ""translation"": ""朋友"", ""examples"": [""Mon ami habite a Paris."", ""Ils sont amis depuis longtemps.""]}]",A2,relation

@@ -7,10 +7,7 @@
 - [ ] Scan DB for words missing audio
 - [ ] Generate mp3, store in data/audio/
 - [ ] Skip existing audio (cache)
-- [ ] Write tests
 - [ ] Verify audio output
-
----
 
 ## Completed
 
