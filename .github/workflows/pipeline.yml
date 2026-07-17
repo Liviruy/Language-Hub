@@ -75,3 +75,4 @@ jobs:
             git commit -m 'auto: update words.json'
             git push
           fi
+# trigger
