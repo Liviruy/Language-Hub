@@ -13,39 +13,44 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 | Decision | Choice |
 |----------|--------|
 | Database schema | Single `words` table with JSON fields for meanings/audio/tags |
-| Dictionary source | Wiktionary API (free, covers en/es/fr) |
+| Dictionary source | Wiktionary API + FreeDictionary API (multi-provider) |
 | TTS | Edge TTS (fallback Google) |
 | Anki GUID | Stable: hash(word_text + language_code) |
 | Audio | Skip if exists (cache based on DB record) |
-| Import duplicates | Skip silently (do not overwrite) |
-| CSV columns | text, language (en/es/fr), ipa, cefr, frequency, meanings (JSON), tags |
+| Import duplicates | Skip silently |
 
 ## Completed Phases
 
 ### Phase 1 ✅ — Project Initialization
-Directory structure, .gitignore, requirements.txt, .venv/ with all deps.
+Dir structure, .gitignore, requirements.txt, .venv with 41 deps.
 
 ### Phase 2 ✅ — Database Design
-database/language.db with migration system. Tables: languages + words (JSON fields).
-scripts/init_database.py — auto-runs migrations, seeds languages.
+language.db with migration system. Tables: languages + words (JSON fields).
+init_database.py — auto-runs migrations, seeds en/es/fr.
 
 ### Phase 3 ✅ — Importer
-scripts/import_words.py — import CSV/JSON into words table. Skip duplicates.
-Sample files: data/raw/sample_{en,es,fr}.csv (8 words total imported).
+import_words.py — CSV/JSON import with duplicate skip.
+Sample files: sample_{en,es,fr}.csv (8 words demo).
+
+### Phase 4 ✅ — Dictionary Pipeline
+dictionary_pipeline.py — auto-enriches words via:
+  - FreeDictionary (English) — IPA + definitions + examples ✅
+  - Wiktionary (Spanish) — definitions via MediaWiki extract ✅
+  - Wiktionary (French) — definitions + IPA via MediaWiki extract ✅
+Skips words that already have data.
 
 ## Current Phase
 
-### Phase 4 — Dictionary Pipeline (next)
-Goal: Auto-enrich words with Wiktionary data (IPA, definitions, examples, CEFR).
+### Phase 5 — Audio Generation (next)
+Goal: Generate pronunciation audio via Edge TTS.
 
 Scripts to create:
-- scripts/dictionary_pipeline.py — query Wiktionary API for each word missing data
-- tests/test_dictionary.py
+- scripts/generate_audio.py — scan DB for words without audio, generate mp3
+- Upload to Cloudflare R2 (Phase 7)
 
 ## Phase Order
 
-4. Dictionary pipeline (Wiktionary API) ← next
-5. Audio generation (Edge TTS)
+5. Audio generation (Edge TTS) ← next
 6. Anki export (genanki)
 7. Cloudflare R2 upload
 8. Website (Astro)
@@ -55,7 +60,7 @@ Scripts to create:
 ## Agent Workflow
 
 1. Read AGENTS.md + TASKS.md + relevant doc
-2. Present plan → wait for human approval
+2. Present plan → wait for approval
 3. Implement (code + test)
 4. Validate (run without errors)
 5. Commit + push
