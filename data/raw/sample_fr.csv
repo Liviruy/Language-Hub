@@ -1,0 +1,3 @@
+text,language,ipa,cefr,frequency,meanings,tags
+bonjour,fr,/bɔ̃ʒuʁ/,A1,100,"[{""pos"": ""interjection"", ""definition"": ""formule de salutation"", ""translation"": ""你好"", ""examples"": [""Bonjour, comment allez-vous?"", ""Elle a dit bonjour à tout le monde.""]}]",A1,salutation
+merci,fr,/mɛʁsi/,A1,80,"[{""pos"": ""interjection"", ""definition"": ""expression de gratitude"", ""translation"": ""谢谢"", ""examples"": [""Merci beaucoup pour votre aide."", ""Il a dit merci et est parti.""]}]",A1,politesse

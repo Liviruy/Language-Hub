@@ -17,54 +17,34 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 | TTS | Edge TTS (fallback Google) |
 | Anki GUID | Stable: hash(word_text + language_code) |
 | Audio | Skip if exists (cache based on DB record) |
-
-## Repository Docs
-
-| File | Purpose |
-|------|---------|
-| README.md | Project intro |
-| PROJECT_PLAN.md | Overall plan |
-| ARCHITECTURE.md | System architecture |
-| DATABASE.md | Database design |
-| ROADMAP.md | Roadmap with flow |
-| AGENT_RULES.md | AI agent rules |
-| TASKS.md | Current tasks |
-| CHANGELOG.md | Version history |
-| AGENTS.md | This file — agent context |
+| Import duplicates | Skip silently (do not overwrite) |
+| CSV columns | text, language (en/es/fr), ipa, cefr, frequency, meanings (JSON), tags |
 
 ## Completed Phases
 
 ### Phase 1 ✅ — Project Initialization
-- Directory structure: data/(raw,processed,audio,images), database, docs, exports, scripts/(migrations), tests, website
-- .gitignore (Python/DB/IDE/OS/venv)
-- requirements.txt (requests, edge-tts, genanki, boto3, pytest, sqlite-utils, python-dotenv)
-- Virtual env .venv/ with all deps installed
-- Pushed to GitHub
+Directory structure, .gitignore, requirements.txt, .venv/ with all deps.
 
 ### Phase 2 ✅ — Database Design
-- Database: `database/language.db` created (36 KB)
-- Schema: `languages` + `words` (with JSON fields meanings/audio/tags) + `_migrations`
-- Indexes: idx_words_language, idx_words_text, idx_words_cefr
-- Migration system: `scripts/migrations/001_initial_schema.sql`
-- Init script: `scripts/init_database.py` (auto-runs pending migrations, seeds languages)
-- Verify script: `scripts/verify_db.py`
-- Seeded languages: en (English), es (Spanish), fr (French)
+database/language.db with migration system. Tables: languages + words (JSON fields).
+scripts/init_database.py — auto-runs migrations, seeds languages.
+
+### Phase 3 ✅ — Importer
+scripts/import_words.py — import CSV/JSON into words table. Skip duplicates.
+Sample files: data/raw/sample_{en,es,fr}.csv (8 words total imported).
 
 ## Current Phase
 
-### Phase 3 — Importer (next)
-Goal: Import vocabulary from CSV/JSON files into the database.
+### Phase 4 — Dictionary Pipeline (next)
+Goal: Auto-enrich words with Wiktionary data (IPA, definitions, examples, CEFR).
 
-Upcoming scripts:
-- `scripts/import_words.py` — read CSV/JSON and insert into words table
-- Tests for import logic
-
-See ROADMAP.md for full details.
+Scripts to create:
+- scripts/dictionary_pipeline.py — query Wiktionary API for each word missing data
+- tests/test_dictionary.py
 
 ## Phase Order
 
-3. Importer ← next
-4. Dictionary pipeline (Wiktionary API)
+4. Dictionary pipeline (Wiktionary API) ← next
 5. Audio generation (Edge TTS)
 6. Anki export (genanki)
 7. Cloudflare R2 upload
@@ -74,8 +54,8 @@ See ROADMAP.md for full details.
 
 ## Agent Workflow
 
-1. Read AGENTS.md + TASKS.md + relevant doc → understand state
-2. Present plan → wait for approval
+1. Read AGENTS.md + TASKS.md + relevant doc
+2. Present plan → wait for human approval
 3. Implement (code + test)
 4. Validate (run without errors)
 5. Commit + push
