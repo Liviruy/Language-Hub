@@ -12,12 +12,12 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 
 | Decision | Choice |
 |----------|--------|
-| Database schema | Single `words` table with JSON fields for meanings/audio/tags |
-| Dictionary source | FreeDictionary (en) + Wiktionary (es/fr) — multi-provider fallback |
-| TTS | Edge TTS (fallback Google) |
-| Anki GUID | Stable: hash(word_text + language_code) |
-| Audio | Skip if exists (cache based on DB record) |
-| Import duplicates | Skip silently |
+| Database schema | Single `words` table with JSON fields |
+| Dictionary | FreeDictionary (en) + Wiktionary (es/fr) |
+| TTS | Edge TTS — en:JennyNeural / es:AlvaroNeural / fr:DeniseNeural |
+| Anki GUID | Stable hash(word_text + language_code) |
+| Import duplicates | Skip; Audio: skip if exists |
+| Audio storage | `data/audio/{lang}/{word}.mp3`; DB records JSON path |
 
 ## Repository State
 
@@ -26,7 +26,8 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 | Total words | 31 (en:6, es:13, fr:12) |
 | With definitions | 31 (100%) |
 | With IPA | 27 (87%) |
-| Sample files | sample_en.csv(4) sample_es.csv(10) sample_fr.csv(10) |
+| With audio | 31 (100%) |
+| Audio files | 36 mp3 (278 KB) |
 
 ## Completed Phases
 
@@ -34,23 +35,29 @@ Python 3.12+ | SQLite | Astro | Cloudflare R2 | genanki | Edge TTS | GitHub Acti
 ### Phase 2 ✅ — Database Design
 ### Phase 3 ✅ — Importer
 ### Phase 4 ✅ — Dictionary Pipeline
+### Phase 5 ✅ — Audio Generation
+Script: `scripts/generate_audio.py` — Edge TTS, all 31 words, 0 failures.
 
 ## Current Phase
 
-### Phase 5 — Audio Generation (next)
-Goal: Generate pronunciation audio via Edge TTS.
-Script: `scripts/generate_audio.py`
-Covers: en, es, fr voices
-Storage: local data/audio/, future R2
+### Phase 6 — Anki Export (next)
+Goal: Generate .apkg flashcard decks per language/level.
+Script: `scripts/export_anki.py`
+Requirements: custom note model, media support, stable GUID, deck hierarchy.
 
 ## Phase Order
-5. Audio generation (Edge TTS) ← next
-6. Anki export (genanki)
+6. Anki export (genanki) ← next
 7. Cloudflare R2 upload
 8. Website (Astro)
 9. API (Cloudflare Workers, optional)
 10. Automation (GitHub Actions)
 
+## Agent Workflow
+1. Read AGENTS.md + TASKS.md + relevant doc
+2. Present plan → wait for approval
+3. Implement → test → validate
+4. Commit + push
+5. Update AGENTS.md + TASKS.md
+
 ## Git Config
-- Remote: https://github.com/Liviruy/Language-Hub.git
-- Branch: main | CWD: E:\Language-Hub
+- Remote: https://github.com/Liviruy/Language-Hub.git | Branch: main

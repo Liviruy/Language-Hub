@@ -1,13 +1,14 @@
 # Tasks
 
-## Phase 5 — Audio Generation (Current)
+## Phase 6 — Anki Export (Current)
 
-- [ ] Create `scripts/generate_audio.py`
-- [ ] Integrate Edge TTS
-- [ ] Scan DB for words missing audio
-- [ ] Generate mp3, store in data/audio/
-- [ ] Skip existing audio (cache)
-- [ ] Verify audio output
+- [ ] Create `scripts/export_anki.py`
+- [ ] Design custom note model (front=word, back=IPA+def+audio)
+- [ ] Generate deck hierarchy per language (en/es/fr)
+- [ ] Stable GUID (hash of text + language)
+- [ ] Media support (embed audio in .apkg)
+- [ ] Export to exports/{lang}_{level}.apkg
+- [ ] Verify .apkg with Anki import test
 
 ## Completed
 
@@ -15,3 +16,4 @@
 - [x] Phase 2: Database design
 - [x] Phase 3: Importer
 - [x] Phase 4: Dictionary pipeline
+- [x] Phase 5: Audio generation
